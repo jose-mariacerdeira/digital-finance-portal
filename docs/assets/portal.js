@@ -1,0 +1,1 @@
+document.querySelectorAll('table').forEach(t=>t.setAttribute('tabindex','0'));
