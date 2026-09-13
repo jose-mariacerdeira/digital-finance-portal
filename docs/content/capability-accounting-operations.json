@@ -1,0 +1,185 @@
+{
+  "pageTitle": "Capability Evolution: Accounting Operations | R2R",
+  "content": {
+    "a-r2r-portal": "R2R Portal",
+    "div-capability-evolution-accounting-operations": "/ Capability Evolution: Accounting Operations",
+    "h1-capability-evolution-accounting-operations": "Capability Evolution: Accounting Operations",
+    "p-journal-entries-accruals-assets-revenue-an": "Journal entries, accruals, assets, revenue and costing",
+    "span-capability": "Capability",
+    "div-record-to-report": "Record To Report",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Soni Chhawchharia",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Tippings",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "li-largest-current-to-target-gap": "Largest current-to-target gap",
+    "li-critical-market-or-technology-gap": "Critical market or technology gap",
+    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "h2-investment-priorities": "Investment priorities",
+    "li-priority-platform": "Priority platform",
+    "li-priority-data-enabler": "Priority data enabler",
+    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Priority"
+        },
+        {
+          "html": "Key initiatives / enablers"
+        },
+        {
+          "html": "Technology radar"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Journal entry management</b>"
+          },
+          {
+            "html": "Controlled processing, workflow, approvals and auto-reversal"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": "Initiative A • Initiative B"
+          },
+          {
+            "html": "BlackLine, Trintech, OneStream, Oracle, SAP"
+          }
+        ],
+        [
+          {
+            "html": "<b>Accruals, provisions &amp; allocations</b>"
+          },
+          {
+            "html": "Accurate period-end accounting and allocation automation"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "SAP, Oracle, Workday"
+          }
+        ],
+        [
+          {
+            "html": "<b>Revenue &amp; project accounting</b>"
+          },
+          {
+            "html": "Revenue compliance, contract accounting and WIP"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "SAP, Oracle, Workday, Microsoft"
+          }
+        ],
+        [
+          {
+            "html": "<b>Fixed assets &amp; lease accounting</b>"
+          },
+          {
+            "html": "Asset lifecycle, depreciation, IFRS16 and ASC842"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "SAP, Oracle, Nakisa, Visual Lease, FinQuery"
+          }
+        ],
+        [
+          {
+            "html": "<b>Inventory &amp; product costing</b>"
+          },
+          {
+            "html": "Inventory valuation, standard and actual costing"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "pageTitle": "Capability Evolution: Controls & Assurance | R2R",
+  "content": {
+    "a-r2r-portal": "R2R Portal",
+    "div-capability-evolution-controls-assurance": "/ Capability Evolution: Controls & Assurance",
+    "h1-capability-evolution-controls-assurance": "Capability Evolution: Controls & Assurance",
+    "p-controls-monitoring-anomaly-detection-and-": "Controls, monitoring, anomaly detection and audit collaboration",
+    "span-capability": "Capability",
+    "div-record-to-report": "Record To Report",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Soni Chhawchharia",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Tippings",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "li-largest-current-to-target-gap": "Largest current-to-target gap",
+    "li-critical-market-or-technology-gap": "Critical market or technology gap",
+    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "h2-investment-priorities": "Investment priorities",
+    "li-priority-platform": "Priority platform",
+    "li-priority-data-enabler": "Priority data enabler",
+    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Priority"
+        },
+        {
+          "html": "Key initiatives / enablers"
+        },
+        {
+          "html": "Technology radar"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Financial controls framework &amp; SoD</b>"
+          },
+          {
+            "html": "Access controls, certifications and GRC convergence"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": "Initiative A • Initiative B"
+          },
+          {
+            "html": "SAP GRC, Pathlock, Diligent, MetricStream"
+          }
+        ],
+        [
+          {
+            "html": "<b>Continuous controls monitoring</b>"
+          },
+          {
+            "html": "Automated testing and alerts"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Pathlock, Oversight, Diligent, MetricStream"
+          }
+        ],
+        [
+          {
+            "html": "<b>Accounting anomaly detection</b>"
+          },
+          {
+            "html": "AI detection and risk scoring"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "BlackLine AI, Trintech AI, MindBridge"
+          }
+        ],
+        [
+          {
+            "html": "<b>Audit collaboration</b>"
+          },
+          {
+            "html": "PBC workflow and findings management"
+          },
+          {
+            "html": "To assess",
+            "class": "placeholder"
+          },
+          {
+            "html": "To define",
+            "class": "placeholder"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Diligent, AuditBoard, Workiva"
+          }
+        ]
+      ]
+    }
+  ]
+}
