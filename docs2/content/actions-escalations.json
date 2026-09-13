@@ -1,0 +1,145 @@
+{
+  "pageTitle": "Actions, Dependencies & Escalations | R2R",
+  "content": {
+    "a-r2r-portal": "R2R Portal",
+    "div-actions-dependencies-escalations": "/ Actions, Dependencies & Escalations",
+    "h1-actions-dependencies-escalations": "Actions, Dependencies & Escalations",
+    "p-convert-meeting-outcomes-into-owned-follow": "Convert meeting outcomes into owned follow-through",
+    "span-capability": "Capability",
+    "div-record-to-report": "Record To Report",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Soni Chhawchharia",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Tippings",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-action-tracker": "Action tracker",
+    "h2-dependencies-risks": "Dependencies / risks",
+    "li-dependency-or-risk": "Dependency or risk",
+    "li-impact-and-mitigation": "Impact and mitigation",
+    "li-owner-next-checkpoint": "Owner / next checkpoint",
+    "h2-escalations": "Escalations",
+    "li-decision-or-sponsorship-needed": "Decision or sponsorship needed",
+    "li-recommended-option": "Recommended option",
+    "li-required-by-date": "Required by date",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Action"
+        },
+        {
+          "html": "Owner"
+        },
+        {
+          "html": "Due"
+        },
+        {
+          "html": "Status"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>[Action 1]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag red\">At risk</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>[Action 2]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag amber\">Escalated</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>[Action 3]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">On track</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>[Action 4]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">On track</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>[Action 5]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Not started</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>[Action 6]</b>"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Not started</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

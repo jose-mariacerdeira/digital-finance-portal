@@ -1,0 +1,28 @@
+R2R PORTAL - DECOUPLED CONTENT GUIDE
+
+STRUCTURE
+- HTML files: fixed page structure and layout hooks.
+- assets/portal.css: existing visual design (unchanged).
+- assets/content-loader.js: reads JSON and renders fields and tables.
+- content/<page-name>.json: editable content for each HTML page.
+
+UPDATING TEXT
+Open the JSON file matching the HTML page and edit values inside "content".
+Do not rename the keys: they connect each value to a fixed HTML field.
+
+UPDATING TABLES
+Each table contains "headers" and "rows" arrays. Each row is an array of cells.
+To add a row, duplicate one complete row array and edit its cell values.
+The HTML and CSS do not need to change when rows are added or removed.
+
+CELL FORMAT
+"html" may contain simple formatting already used by the portal, such as:
+  {"html": "<b>Initiative name</b>"}
+  {"html": "<span class="tag amber">Pending</span>"}
+Optional "class" preserves cell-level styles such as "placeholder".
+
+IMPORTANT: RUN THROUGH HTTP
+Modern browsers block fetch() of JSON when an HTML page is opened directly
+with file://. Upload the complete docs folder to the web server/SharePoint, or
+test locally from the docs folder with a small HTTP server. Keep the relative
+folder structure unchanged.
