@@ -76,7 +76,7 @@
     "(hover: hover) and (pointer: fine)"
     );
 
-    container.querySelectorAll(".r2r-group").forEach(group => {
+    container.querySelectorAll(".dynamic_menu-group").forEach(group => {
     group.addEventListener("mouseenter", () => {
         if (hoverSupported.matches) {
         group.open = true;

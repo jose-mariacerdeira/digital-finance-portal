@@ -3,7 +3,7 @@
   z-index: 1000;
 }
 
-#portal-header .r2r-header {
+#portal-header .dynamic_menu-header {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -16,25 +16,25 @@
   font-family: Arial, sans-serif;
 }
 
-#portal-header .r2r-brand {
+#portal-header .dynamic_menu-brand {
   color: #24332b;
   font-size: 18px;
   text-decoration: none;
 }
 
-#portal-header .r2r-brand strong {
+#portal-header .dynamic_menu-brand strong {
   color: #008c45;
 }
 
-#portal-header .r2r-navigation {
+#portal-header .dynamic_menu-navigation {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 6px;
 }
 
-#portal-header .r2r-home,
-#portal-header .r2r-group > summary {
+#portal-header .dynamic_menu-home,
+#portal-header .dynamic_menu-group > summary {
   padding: 10px 12px;
   color: #24332b;
   font-size: 14px;
@@ -44,30 +44,30 @@
   cursor: pointer;
 }
 
-#portal-header .r2r-group {
+#portal-header .dynamic_menu-group {
   position: relative;
 }
 
-#portal-header .r2r-group > summary {
+#portal-header .dynamic_menu-group > summary {
   display: list-item;
   list-style-position: inside;
 }
 
-#portal-header .r2r-home:hover,
-#portal-header .r2r-group > summary:hover {
+#portal-header .dynamic_menu-home:hover,
+#portal-header .dynamic_menu-group > summary:hover {
   background: #edf8f1;
 }
 
 /* Refuerza el cierre nativo frente a otras reglas CSS. */
-#portal-header .r2r-group:not([open]) > .r2r-links {
+#portal-header .dynamic_menu-group:not([open]) > .dynamic_menu-links {
   display: none !important;
 }
 
-#portal-header .r2r-group[open] > .r2r-links {
+#portal-header .dynamic_menu-group[open] > .dynamic_menu-links {
   display: flex !important;
 }
 
-#portal-header .r2r-links {
+#portal-header .dynamic_menu-links {
   position: absolute;
   top: 100%;
   right: 0;
@@ -83,7 +83,7 @@
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
 
-#portal-header .r2r-links a {
+#portal-header .dynamic_menu-links a {
   display: block;
   padding: 10px;
   color: #24332b;
@@ -93,7 +93,7 @@
   border-radius: 4px;
 }
 
-#portal-header .r2r-links a:hover {
+#portal-header .dynamic_menu-links a:hover {
   background: #edf8f1;
 }
 
@@ -103,7 +103,7 @@
   font-weight: 700;
 }
 
-#portal-header .r2r-current-group > summary {
+#portal-header .dynamic_menu-current-group > summary {
   color: #008c45;
 }
 
@@ -114,17 +114,17 @@
 }
 
 @media (max-width: 900px) {
-  #portal-header .r2r-header {
+  #portal-header .dynamic_menu-header {
     padding: 12px 16px;
   }
 
-  #portal-header .r2r-navigation {
+  #portal-header .dynamic_menu-navigation {
     width: 100%;
     flex-direction: column;
     align-items: stretch;
   }
 
-  #portal-header .r2r-links {
+  #portal-header .dynamic_menu-links {
     position: static;
     width: 100%;
     max-width: none;
