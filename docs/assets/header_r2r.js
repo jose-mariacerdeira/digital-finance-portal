@@ -8,14 +8,14 @@
        
       <header class="r2r-header">
         
-            <div class="brand">         
-                    <img src="img/selogo.svg" alt="Schneider Electric logo" width="180" height="52" style="display:block; width:180px; height:auto;">
-            </div>
+        <div class="brand">         
+            <img src="../img/selogo.svg" alt="Schneider Electric logo" width="180" height="52" style="display:block; width:180px; height:auto;">
+        </div>
 
         <nav class="r2r-navigation" aria-label="Navegación principal">
-          <a class="r2r-home" href="index.html">Home</a>
+          <a class="r2r-home" href="../index.html">Home</a>
 
-          <details class="r2r-group">
+          <details class="r2r-group"> 
             <summary>Review</summary>
             <div class="r2r-links">
               <a href="agenda.html">Agenda</a>

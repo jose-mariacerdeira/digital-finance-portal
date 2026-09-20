@@ -5,7 +5,7 @@ Open index.html locally to preview.
 
 Contents
 - 15 responsive HTML pages mapped to slides 1-15
-- Shared CSS and JavaScript in assets/
+- Shared CSS and JavaScript in ../assets/
 - Relative links, so the folder can be moved as a unit
 
 SharePoint Online warning
