@@ -1,0 +1,147 @@
+{
+  "pageTitle": "Actions, Dependencies & Escalations | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-actions-dependencies-escalations": "/ Actions, Dependencies & Escalations",
+    "h1-actions-dependencies-escalations": "Actions, Dependencies & Escalations",
+    "p-convert-meeting-outcomes-into-owned-follow": "Convert meeting outcomes into owned follow-through",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-action-tracker": "Action tracker",
+    "h2-dependencies-risks": "Dependencies / risks",
+    "li-dependency-or-risk": "-",
+    "li-impact-and-mitigation": "",
+    "li-owner-next-checkpoint": "",
+    "h2-escalations": "Escalations",
+    "li-decision-or-sponsorship-needed": "-",
+    "li-recommended-option": "",
+    "li-required-by-date": "",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Action"
+        },
+        {
+          "html": "Owner"
+        },
+        {
+          "html": "Due"
+        },
+        {
+          "html": "Status"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Request from Ragha: Analyze tools in the market to offer to our vendors to support them on adopting electronic invoicing.</b>"
+          },
+          {
+            "html": "Diwakar"
+          },
+          {
+            "html": "Dec 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ],
+        [
+          {
+            "html": "<b>Request from Rasmus: bring clarity on how e-invoicing is going to be treated for IG and how many tools/solutions are in place</b>"
+          },
+          {
+            "html": "Diwakar"
+          },
+          {
+            "html": "Dec 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ],
+        [
+          {
+            "html": "<b>Agents 2 &amp; 3 for OCR invoice processing errors for legacy FERPs: Digital Finance to take the lead on solution architecture and cost estimation</b>"
+          },
+          {
+            "html": "Jose Cerdeira"
+          },
+          {
+            "html": "Sept 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ],
+        [
+          {
+            "html": "<b>Agents 2 &amp; 3 for OCR invoice processing errors for legacy FERPs: AI Token cost not in Digital Budget. Confirm budget owner</b>"
+          },
+          {
+            "html": "Payal Mittal"
+          },
+          {
+            "html": "Sept 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ],
+        [
+          {
+            "html": "<b>Complete investigation on Galvanize as interim solution for duplicate payment check in UNIFY while target tool is not in place</b>"
+          },
+          {
+            "html": "Diwakar"
+          },
+          {
+            "html": "Sept 2026"
+          },
+          {
+            "html": "<span class=\"tag\">On track</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Is there any AI token cost involved in Xelix/Oversight or Rossum for Coupa?</b>"
+          },
+          {
+            "html": "Jose Cerdeira"
+          },
+          {
+            "html": "Dec 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ],
+        [
+          {
+            "html": "<b>Define invoice management architecture for Hong Kong &amp; Taiwan and validate local architecture for China mainland</b>"
+          },
+          {
+            "html": "Jose Cerdeira"
+          },
+          {
+            "html": "Dec 2026"
+          },
+          {
+            "html": "Not started"
+          }
+        ]
+      ]
+    }
+  ]
+}

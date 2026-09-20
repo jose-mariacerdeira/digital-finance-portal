@@ -1,0 +1,147 @@
+{
+  "pageTitle": "Demand & Innovation Pipeline | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-demand-innovation-pipeline": "/ Demand & Innovation Pipeline",
+    "h1-demand-innovation-pipeline": "Demand & Innovation Pipeline",
+    "p-move-ideas-through-transparent-evidence-ba": "Move ideas through a transparent, evidence-based governance framework",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "div-explore": "Explore [0]",
+    "div-validate": "Technology Validation [2]",
+    "div-poc-pilot": "PoC / Pilot [2]",
+    "div-ready-to-scale": "Ready to scale [0]",
+    "h2-priority-opportunities-and-decisions": "Priority opportunities and decisions",
+    "p-the-source-slide-contains-a-p2p-example-in": "",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Idea / initiative"
+        },
+        {
+          "html": "Problem / opportunity"
+        },
+        {
+          "html": "Value"
+        },
+        {
+          "html": "Stage"
+        },
+        {
+          "html": "Decision / next step"
+        },
+        {
+          "html": "Owner"
+        },
+        {
+          "html": "Next milestone"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Rossum for Coupa</b>"
+          },
+          {
+            "html": "Invoice capture <b>AI-based document understanding</b>. Potential replacement to <b>Total Agility</b> and <b>AP Essentials</b> to leverage on AI to understand new invoice layouts <b>without extensive configuration</b>."
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "PoC"
+          },
+          {
+            "html": "Share PoV results, propose a deployment plan and <b>budget estimation</b>.<br/>Budget 2027 already provisioned, <b>approval is pending</b>"
+          },
+          {
+            "html": "Amanda Conlen / David Tippins / Raghavendra Sriramulu"
+          },
+          {
+            "html": "October 2026"
+          }
+        ],
+        [
+          {
+            "html": "<b>Xelix/Oversight for Vendor Query Management and statements reconciliation</b>"
+          },
+          {
+            "html": "Currently handled using Sequence for vendor query management and <b>3 RPA bots</b> for supplier statement reconciliations.<br/>This creates <b>inefficiencies</b>, delays issue resolution, and increases workload. Xelix or Oversight provide an opportunity to <b>automate, centralize, and streamline</b> these processes, improving supplier experience, productivity, and payment accuracy."
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Technology Validation"
+          },
+          {
+            "html": "Execute Pilot in 2027"
+          },
+          {
+            "html": "David Tippins"
+          },
+          {
+            "html": "Pilot start: Jan 2027<br/>Pilot end: July 2027"
+          }
+        ],
+        [
+          {
+            "html": "<b>Xelix/Oversight for Duplicate Payment Check</b>"
+          },
+          {
+            "html": "Legacy <b>duplicate-payment controls</b> (Galvanize/HighBond) generate high volumes of <b>false positives</b>, require <b>significant manual effort</b>, and have known <b>operational limitations</b>.<br/>Replace the legacy <b>rule-based approach</b> with Xelix's <b>AI-driven duplicate payment detection</b> capability to improve <b>detection accuracy</b>, <b>reduce manual effort</b>, strengthen <b>AP controls</b>, and lower <b>duplicate-payment risk</b>."
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Technology Validation"
+          },
+          {
+            "html": "Execute Pilot in 2027"
+          },
+          {
+            "html": "David Tippins"
+          },
+          {
+            "html": "Pilot start: Jan 2027<br/>Pilot end: July 2027"
+          }
+        ],
+        [
+          {
+            "html": "<b>AI agent for OCR invoice processing errors for legacy FERPs</b>"
+          },
+          {
+            "html": "Agent 1 will perform extraction of <b>invoice data</b> from APS where OCR failed to process. Agents 2 and 3 will process invoice <b>exception resolution and posting</b> in legacy ERPs (SAP and Oracle)."
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Pilot"
+          },
+          {
+            "html": "Agent 1 is live<br/>Agents 2 and 3 under development"
+          },
+          {
+            "html": "DHARMENDER SATYAMURTHY"
+          },
+          {
+            "html": "TBD"
+          }
+        ]
+      ]
+    }
+  ]
+}

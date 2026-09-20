@@ -1,0 +1,197 @@
+{
+  "pageTitle": "Investment Roadmap | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-investment-roadmap": "/ Investment Roadmap",
+    "h1-investment-roadmap": "Investment Roadmap",
+    "p-funding-commitments-requests-conditions-an": "Show where funding is committed, requested or conditional across the transformation roadmap",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-investment-profile": "Investment profile",
+    "h2-investment-choices": "Investment choices",
+    "h3-commit-now": "Commit now",
+    "p-initiatives-amount": "Invoice Management Transformation; Invoice Management Transformation NAM; Rossum for Coupa; DRC deployment for LRI compliance",
+    "h3-condition-funding": "Condition funding",
+    "p-gate-or-evidence-needed": "AI for Vendor Query Management, statement reconciliation and duplicate payment check; AI agents to process invoice reception for APS OCR failures",
+    "h3-defer": "Defer",
+    "p-reason-review-date": "-",
+    "h3-close-gap": "Close gap",
+    "p-sponsor-decision-forum": "Approve funding to enhance Coupa AI invoice reception capabilities with Rossum. Approve funding for DRC deployment for LRI. Wait to complete investigation on AI agents for legacy FERPs and AI for vendor query management, statement reconciliation and duplicate payment check.",
+    "p-the-investment-examples-originate-from-p2p": "",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Initiative"
+        },
+        {
+          "html": "2026"
+        },
+        {
+          "html": "2027"
+        },
+        {
+          "html": "Funding 2026"
+        },
+        {
+          "html": "Funding 2027"
+        },
+        {
+          "html": "Headcount available / demand"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Invoice Management Transformation</b>"
+          },
+          {
+            "html": "1,8 M€"
+          },
+          {
+            "html": "2,63 M€"
+          },
+          {
+            "html": "<span class=\"tag\">Committed</span>"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "? / Additional tbc"
+          }
+        ],
+        [
+          {
+            "html": "<b>Invoice Management Transformation NAM</b>"
+          },
+          {
+            "html": "1,2 M€"
+          },
+          {
+            "html": "1,2 M€"
+          },
+          {
+            "html": "<span class=\"tag\">Committed</span>"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "? / Additional tbc"
+          }
+        ],
+        [
+          {
+            "html": "<b>Rossum for Coupa</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "200 K€<br/>Included in IMTP"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "0 / 0"
+          }
+        ],
+        [
+          {
+            "html": "<b>AI agents to process invoice reception for APS OCR failures</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "150 K€<br/>Legacy FERP integration cost under investigation"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "Not Requested"
+          },
+          {
+            "html": "0 / 0"
+          }
+        ],
+        [
+          {
+            "html": "<b>AI standard tool for Vendor Query Management and statements reconciliation</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "250 K€<br/>Cost from vendors under investigation"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "Not Requested"
+          },
+          {
+            "html": "0 / 0"
+          }
+        ],
+        [
+          {
+            "html": "<b>AI standard tool for Duplicate Invoice Check</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "250 K€<br/>Cost from vendors under investigation"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "Not Requested"
+          },
+          {
+            "html": "0 / 0"
+          }
+        ],
+        [
+          {
+            "html": "<b>DRC deployment for LRI compliance</b>"
+          },
+          {
+            "html": "0"
+          },
+          {
+            "html": "850K"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "? / 19"
+          }
+        ]
+      ]
+    }
+  ]
+}

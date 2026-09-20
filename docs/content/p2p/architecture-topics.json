@@ -1,0 +1,91 @@
+{
+  "pageTitle": "Architecture & Design Topics | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-architecture-design-topics": "/ Architecture & Design Topics",
+    "h1-architecture-design-topics": "Architecture & Design Topics",
+    "p-strategic-architecture-decisions-requiring": "Strategic architecture decisions, cross-capability implications, major deviations or Design Authority topics requiring business alignment",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h3-new-platform": "New platform",
+    "p-assess-platform-introduction-and-transitio": "Assess platform introduction and transition implications.",
+    "h3-new-standard": "New standard",
+    "p-define-alignment-with-enterprise-standards": "Define alignment with enterprise standards.",
+    "h3-major-deviation": "Major deviation",
+    "p-evaluate-rationale-impact-and-remediation": "Evaluate rationale, impact and remediation.",
+    "h2-architecture-topics": "Architecture topics",
+    "h2-decision-outcomes": "Decision outcomes",
+    "h3-approve": "Approve",
+    "p-direction-agreed-and-released-to-design-au": "Direction agreed and released to Design Authority.",
+    "h3-assess-further": "Assess further",
+    "p-targeted-evidence-or-design-work-required": "Targeted evidence or design work required.",
+    "h3-escalate": "Escalate",
+    "p-leadership-funding-or-policy-decision-requ": "Leadership sponsorship, funding or policy decision.",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Topic"
+        },
+        {
+          "html": "Business &amp; cross-capability impact"
+        },
+        {
+          "html": "Architecture implication"
+        },
+        {
+          "html": "Recommendation"
+        },
+        {
+          "html": "Decision"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Discussion on the future of P2P invoicing process with AI solutions as a support:</b><br/>Vendor Query Management<br/>Duplicate Invoice Trace<br/>Vendor Reconciliation<br/>Exception handling<br/>Common Collector Mailbox<br/><b>How many platforms we need to have in the interim solution before UNIFY coming. Eventually, what will be the target model after UNIFY, Titan</b>"
+          },
+          {
+            "html": "Decommissioning risk and <b>technical debt</b> created by the interim solution"
+          },
+          {
+            "html": "<span class=\"tag blue\">New platform</span>"
+          },
+          {
+            "html": "<b>Identified interim solution needs:</b><br/><b>Interim solutions:</b><br/>3 <b>AI agents</b> to process invoice <b>exception handling</b> for APS OCR failures for legacy FERPs.<br/>Agent 1 is already in production.<br/>Agents 2 and 3 integration with legacy FERP design and cost estimate is ongoing.<br/>Exception to implement solution in FERP to be validated by Design Authority.<br/>Recommend: on hold and budget to be validated -&gt; Action on Digital Finance.<br/>Request of a duplicate payment solution for UNIFY before Xelix or Oversight go-live in July 2027. <b>Galvanize usage in UNIFY is under investigation as it would require connecting UNIFY to a non best-of-breed solution. Topic to be brought to Enterprise Architecture.</b><br/><b>NOT interim solutions:</b><br/>Xelix/Oversight for VQM, duplicate payment optimization, vendor statement reconciliation.<br/>Common Collector Mailbox is <b>currently deprioritized for 2026</b>."
+          },
+          {
+            "html": "Closed"
+          }
+        ],
+        [
+          {
+            "html": "<b>P2P Architecture for KunPeng</b>"
+          },
+          {
+            "html": "Principle is to use the same technology everywhere. Investigation on standards for KunPeng not yet conducted."
+          },
+          {
+            "html": "<span class=\"tag\">New standard</span>"
+          },
+          {
+            "html": "China operates its own applications for invoice management which properly support local regulatory requirements. The only open point to clarify is the strategy for Taiwan and Hong Kong."
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

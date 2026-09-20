@@ -1,0 +1,34 @@
+Update the content of my Digital Finance portal using the attached files.
+
+1. Source PowerPoint
+Use the attached "Capability Strategy & Portfolio Review - P2P Review Sept 18th" as the source of content.
+
+2. Existing JSON files
+Use the attached json files as the mandatory templates
+
+
+
+3. Target capability
+Procurement To Pay (P2P).
+Destination folder: docs/content/p2p/.
+
+4. Slide-to-file mapping
+
+Slides titled “Capability Evolution” → capability-Procure-To-Pay
+Slides titled  "Demand & innovation pipeline" → innovation-pipeline.json
+Slides titled  "Architecture & Design Topics" → architecture-topics.json
+Slides titled   "Investment Roadmap" → investment-roadmap.json
+Slides titled   "Decision log" → decision-log.json
+Slides titled "Actions, dependencies & escalations" → actions-escalations.json
+
+
+
+If a slide cannot be identified unambiguously, ask me before updating its JSON.
+
+5. Scope
+Update all text fields and table content on these two pages that are covered by the mapped slides. Add, remove or reorder table rows to match the PowerPoint.
+
+Preserve existing JSON keys, table IDs, column structure and formatting conventions. Leave content not covered by the slides unchanged. Do not modify HTML, CSS or JavaScript.
+
+Deliverables
+Return both complete, updated JSON files for download, with their original filenames. Include a brief summary of changes and any content requiring clarification.

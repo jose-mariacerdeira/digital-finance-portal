@@ -1,0 +1,72 @@
+{
+  "pageTitle": "Decision Log | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-decision-log": "/ Decision Log",
+    "h1-decision-log": "Decision Log",
+    "p-record-choices-rationale-and-downstream-im": "Record the choice, rationale and downstream impact while the discussion is fresh",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "ID"
+        },
+        {
+          "html": "Decision"
+        },
+        {
+          "html": "Rationale / evidence"
+        },
+        {
+          "html": "Impact"
+        },
+        {
+          "html": "Decision owner"
+        },
+        {
+          "html": "Effective date"
+        },
+        {
+          "html": "Status"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>D01</b>"
+          },
+          {
+            "html": "<b>Agents for OCR invoice processing errors for legacy FERPs as interim solution</b>"
+          },
+          {
+            "html": "Business value justifies investment in legacy Federated ERP. Pending Digital validation for legacy solution change requests."
+          },
+          {
+            "html": "Decommission as per UNIFY deployment"
+          },
+          {
+            "html": "Dharmender Satyamurthy"
+          },
+          {
+            "html": "September 2026"
+          },
+          {
+            "html": "<span class=\"tag\">Confirmed</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

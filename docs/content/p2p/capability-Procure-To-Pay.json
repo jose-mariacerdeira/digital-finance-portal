@@ -1,0 +1,175 @@
+{
+  "pageTitle": "Capability Evolution | P2P",
+  "content": {
+    "a-r2r-portal": "P2P Portal",
+    "div-capability-evolution-accounting": "/ Capability Evolution",
+    "h1-capability-evolution-accounting": "Capability Evolution",
+    "p-accounting-policy-ledger-engine-and-financ": "Capability-led view linking market sub-capabilities, maturity gaps, priorities and investment initiatives",
+    "span-capability": "Capability",
+    "div-record-to-report": "Procure To Pay",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Payal Mittal / Diwakar Muthu",
+    "span-finance-partner": "Finance Transformation Partner / BPO Leader",
+    "div-david-tippings": "Amanda Conlen / David Tippins / Raghavendra Sriramulu",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "p-one-sentence-describing-the-future-ambitio": "Deliver a globally standardized, compliant, touchless and intelligent Procure-to-Pay operation that seamlessly connects suppliers, invoices, controls and payments through automation, AI-enabled and with embedded compliance, enabling frictionless procurement and autonomous AP operations",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "li-largest-current-to-target-gap": "Leverage AI for invoice capture",
+    "li-critical-market-or-technology-gap": "Leverage AI for invoice processing using embedded AI capabilities in Coupa and Ariba Invoicing",
+    "li-business-outcome-currently-constrained": "Leverage SAP S4 autonomous Finance capabilities for invoice posting, consolidation and reporting; common collector mailbox implementation; leverage AI for vendor exception management for UNIFY",
+    "h2-investment-priorities": "Investment priorities",
+    "li-priority-platform": "Invoice transformation deployment",
+    "li-priority-data-enabler": "Incorporate new technologies for invoice capture and processing: Rossum as priority as integrated by Coupa",
+    "li-priority-poc-or-emerging-technology": "AI agents for OCR invoice receipt errors for legacy FERPs; AI-based out-of-the-box tools for vendor query management, supplier statement reconciliation and duplicate payment controls",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Priority"
+        },
+        {
+          "html": "Key initiatives / enablers"
+        },
+        {
+          "html": "Technology radar"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Supplier Management</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "SAP MDG / Coupa, SupplyOn (Procurement & vendor portal)"
+          },
+          {
+            "html": "Deployment of MDGS4 in UNIFY and Titan"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          }
+        ],
+        [
+          {
+            "html": "<b>Invoice Receipt Management</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "<b>Legacy</b><br/>PDF invoices received by email: <b>APS OCR</b><br/>Local e-invoicing compliance solutions (i.e. Docapost, Tax, Cube, KPMG, …)<br/><b>Tungsten EDI</b> in US and some part of France<br/>I-Supplier portal receiving invoices in Cavite, Philippines - Oracle based"
+          },
+          {
+            "html": "<b>Target UNIFY &amp; Titan</b><br/>Supplier portals <b>Coupa and SupplyOn</b><br/>PDF invoices received by email <b>APS OCR</b> (used with Coupa) / <b>ARIBA OCR + KTA</b> to segregate<br/>EDI / supplier integration <b>SupplyOn</b><br/>CXML EDI integration to <b>Coupa</b><br/>PO Flip Invoicing | <b>Coupa and SupplyOn</b><br/>Government e-invoicing portals | <b>SAP DRC</b><br/>Evolve invoice capture from <b>APS OCR</b> template based to <b>AI based invoice recognition</b> by <b>replacing APS OCR used for Coupa indirect procurement.</b> ARIBA OCR already leveraging AI for direct procurement<br/>AI agents for FERP OCR invoice reception exception processing<br/>Common collector mailbox implementation"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "AI document understanding: Rossum, Tungsten, SAP Ariba OCR, Agentic AI"
+          }
+        ],
+        [
+          {
+            "html": "<b>Invoice Processing</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "<b>Legacy:</b><br/><b>Legacy ERP + Readsoft Cockpit</b><br/><b>Legacy ERP + Readsoft Online</b> (Manual/RPA)"
+          },
+          {
+            "html": "<b>Target UNIFY &amp; Titan</b><br/><b>Coupa, Ariba Invoicing, SAP S4</b><br/><b>ONESOURCE Tax Engine</b><br/>Complete invoice transformation deployment in sync with <b>UNIFY deployment</b><br/>Adding <b>native AI capabilities</b> for invoice processing as available by vendors"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Rossum for Coupa<br/>SAP Joule/Autonomous Finance for AP<br/>ONESOURCE AI capabilities"
+          }
+        ],
+        [
+          {
+            "html": "<b>Exception Management &amp; Supplier Query Management</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Exception management: <b>RSO Workflow, exceptions manually handled</b><br/>Vendor Query Management: <b>Sequence</b>"
+          },
+          {
+            "html": "Exception management<br/>Coupa and Ariba in-development capabilities: wait for capabilities to be available, investigate types of <b>UNIFY exceptions</b> and determine if standard solutions can cover the needs<br/>Vendor Query Management: <b>Leverage on AI</b> to manage the process using standard tools. Xelix and Oversight are under investigation"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Exception management: Coupa, Ariba<br/>Vendor Query Management and supplier statement reconciliation: Xelix, Oversight, Rossum, HighRadius, BlackLine, Trintech, Serrala"
+          }
+        ],
+        [
+          {
+            "html": "<b>AP Controls</b>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Duplicate payment check: Galvanize for legacy FERPs<br/>Vendor statement reconciliation is managed by 3 <b>RPA BOTs</b> which are not scalable"
+          },
+          {
+            "html": "Leverage AI capabilities for <b>Duplicate payment check &amp; Vendor Statement reconciliation</b><br/>Xelix or Oversight are under investigation for UNIFY. Any of these will be available <b>before July 2027</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "Xelix, Oversight, Galvanize"
+          }
+        ]
+      ]
+    }
+  ]
+}
