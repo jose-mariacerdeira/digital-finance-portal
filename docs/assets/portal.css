@@ -133,6 +133,7 @@ a {
 .card,
 .meta>div,
 .panel {
+    margin-top: 32px;
     background: #fff;
     border: 1px solid var(--line);
     border-radius: 12px;
@@ -183,6 +184,7 @@ a {
 }
 
 .split {
+    margin-top: 32px;
     grid-template-columns: 1fr 1fr
 }
 
