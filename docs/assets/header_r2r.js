@@ -6,18 +6,18 @@
     container.innerHTML = `
        
        
-      <header class="r2r-header">
+      <header class="dynamic_menu-header">
         
         <div class="brand">         
             <img src="../img/selogo.svg" alt="Schneider Electric logo" width="180" height="52" style="display:block; width:180px; height:auto;">
         </div>
 
-        <nav class="r2r-navigation" aria-label="Navegación principal">
-          <a class="r2r-home" href="../index.html">Home</a>
+        <nav class="dynamic_menu-navigation" aria-label="Navegación principal">
+          <a class="dynamic_menu-home" href="../index.html">Home</a>
 
-          <details class="r2r-group"> 
+          <details class="dynamic_menu-group"> 
             <summary>Review</summary>
-            <div class="r2r-links">
+            <div class="dynamic_menu-links">
               <a href="agenda.html">Agenda</a>
               <a href="objectives-actions.html">
                 Objectives & Previous Actions
@@ -25,9 +25,9 @@
             </div>
           </details>
 
-          <details class="r2r-group">
+          <details class="dynamic_menu-group">
             <summary>Capabilities</summary>
-            <div class="r2r-links">
+            <div class="dynamic_menu-links">
               <a href="capability-accounting.html">Accounting</a>
               <a href="capability-accounting-operations.html">
                 Accounting Operations
@@ -47,18 +47,18 @@
             </div>
           </details>
 
-          <details class="r2r-group">
+          <details class="dynamic_menu-group">
             <summary>Portfolio</summary>
-            <div class="r2r-links">
+            <div class="dynamic_menu-links">
               <a href="innovation-pipeline.html">Innovation Pipeline</a>
               <a href="portfolio-review.html">Portfolio Review</a>
               <a href="investment-roadmap.html">Investment Roadmap</a>
             </div>
           </details>
 
-          <details class="r2r-group">
+          <details class="dynamic_menu-group">
             <summary>Governance</summary>
-            <div class="r2r-links">
+            <div class="dynamic_menu-links">
               <a href="architecture-topics.html">Architecture</a>
               <a href="decision-log.html">Decision Log</a>
               <a href="actions-escalations.html">

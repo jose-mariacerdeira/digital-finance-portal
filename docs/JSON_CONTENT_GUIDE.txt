@@ -4,7 +4,7 @@ STRUCTURE
 - HTML files: fixed page structure and layout hooks.
 - ../assets/portal.css: existing visual design (unchanged).
 - ../assets/content-loader.js: reads JSON and renders fields and tables.
-- ../content/<page-name>.json: editable content for each HTML page.
+- ../content/r2r/<page-name>.json: editable content for each HTML page.
 
 UPDATING TEXT
 Open the JSON file matching the HTML page and edit values inside "content".
