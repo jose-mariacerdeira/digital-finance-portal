@@ -10,7 +10,8 @@
     if (data.pageTitle) document.title = data.pageTitle;
     Object.entries(data.content || {}).forEach(([key, value]) => {
       const element = document.querySelector(`[data-bind="${CSS.escape(key)}"]`);
-      if (element) element.textContent = value ?? '';
+      /*if (element) element.textContent = value ?? '';*/
+      if (element) element.innerHTML  = value ?? '';
     });
 
     (data.tables || []).forEach((definition) => {

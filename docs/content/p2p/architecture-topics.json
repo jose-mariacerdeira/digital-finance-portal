@@ -53,7 +53,7 @@
       "rows": [
         [
           {
-            "html": "<b>Discussion on the future of P2P invoicing process with AI solutions as a support:</b><br/>Vendor Query Management<br/>Duplicate Invoice Trace<br/>Vendor Reconciliation<br/>Exception handling<br/>Common Collector Mailbox<br/><b>How many platforms we need to have in the interim solution before UNIFY coming. Eventually, what will be the target model after UNIFY, Titan</b>"
+            "html": "<b>Future of the P2P invoicing process supported by AI</b><br/>• Vendor query management<br/>• Duplicate invoice trace<br/>• Vendor reconciliation<br/>• Exception handling<br/>• Common collector mailbox<br/><b>Decision question:</b> How many platforms are needed in the interim before UNIFY, and what is the target model after UNIFY and Titan?"
           },
           {
             "html": "Decommissioning risk and <b>technical debt</b> created by the interim solution"
@@ -62,7 +62,7 @@
             "html": "<span class=\"tag blue\">New platform</span>"
           },
           {
-            "html": "<b>Identified interim solution needs:</b><br/><b>Interim solutions:</b><br/>3 <b>AI agents</b> to process invoice <b>exception handling</b> for APS OCR failures for legacy FERPs.<br/>Agent 1 is already in production.<br/>Agents 2 and 3 integration with legacy FERP design and cost estimate is ongoing.<br/>Exception to implement solution in FERP to be validated by Design Authority.<br/>Recommend: on hold and budget to be validated -&gt; Action on Digital Finance.<br/>Request of a duplicate payment solution for UNIFY before Xelix or Oversight go-live in July 2027. <b>Galvanize usage in UNIFY is under investigation as it would require connecting UNIFY to a non best-of-breed solution. Topic to be brought to Enterprise Architecture.</b><br/><b>NOT interim solutions:</b><br/>Xelix/Oversight for VQM, duplicate payment optimization, vendor statement reconciliation.<br/>Common Collector Mailbox is <b>currently deprioritized for 2026</b>."
+            "html": "<b>Identified interim-solution needs</b><br/>• Deploy <b>3 AI agents</b> for invoice exception handling after APS OCR failures in legacy FERPs<br/>• Agent 1 is in production; integration design and cost estimation for Agents 2 and 3 are ongoing<br/>• Validate the FERP implementation exception through Design Authority<br/>• Keep on hold until budget is validated, with action on Digital Finance<br/>• Investigate Galvanize for UNIFY duplicate-payment checks until Xelix or Oversight goes live in July 2027; bring the non-best-of-breed integration topic to Enterprise Architecture<br/><b>Not interim solutions</b><br/>• Xelix/Oversight for VQM, duplicate-payment optimization and vendor statement reconciliation<br/>• Common collector mailbox is <b>deprioritized for 2026</b>"
           },
           {
             "html": "Closed"
@@ -73,13 +73,13 @@
             "html": "<b>P2P Architecture for KunPeng</b>"
           },
           {
-            "html": "Principle is to use the same technology everywhere. Investigation on standards for KunPeng not yet conducted."
+            "html": "The principle is to use the <b>same technology everywhere</b>. The investigation of standards for KunPeng has not yet been conducted."
           },
           {
             "html": "<span class=\"tag\">New standard</span>"
           },
           {
-            "html": "China operates its own applications for invoice management which properly support local regulatory requirements. The only open point to clarify is the strategy for Taiwan and Hong Kong."
+            "html": "China uses local invoice-management applications that support regulatory requirements. The remaining point is the strategy for <b>Taiwan and Hong Kong</b>."
           },
           {
             "html": "<span class=\"tag amber\">Pending</span>"

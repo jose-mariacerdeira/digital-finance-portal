@@ -32,3 +32,8 @@ Preserve existing JSON keys, table IDs, column structure and formatting conventi
 
 Deliverables
 Return both complete, updated JSON files for download, with their original filenames. Include a brief summary of changes and any content requiring clarification.
+
+6. Add bullet points to the output text when relevant and put in bold key words to facilitate readbiliy.
+
+7. Output
+Pack all files into a downloadeable ZIP file

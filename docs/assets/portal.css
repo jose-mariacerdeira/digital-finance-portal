@@ -649,5 +649,17 @@ tr:last-child td {
   }
 }
 
-/* fin estilos para los menus desplegables */
+}
+.wrap.capability-wide {
+  width: 100%;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+.text-grey,
+.meta span.text-grey {
+  color: grey;
 }
