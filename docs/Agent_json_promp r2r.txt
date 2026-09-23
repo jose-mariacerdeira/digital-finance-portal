@@ -13,7 +13,7 @@ Destination folder: docs/content/r2r/.
 Slides titled “Capability Evolution” and "Capability Record To Report – Accounting Foundation" → capability-accounting.json
 Slides titled “Capability Evolution” and "Capability Record To Report – Accounting Operations" → capability-accounting-operations.json
 Slides titled “Capability Evolution” and "Capability Record To Report – Close Execution & Reconciliation" → capability-close-reconciliation.json
-Slides titled “Capability Evolution” and "capability Record To Report – Intercompany & Consolidation" → capability-intercompany-consolidation.json
+Slides titled “Capability Evolution” and "capability Group statutory reporting & consolidation" → capability-statutory-reporting-consolidation.json
 Slides titled “Capability Evolution” and "Capability Record To Report – Report & Disclosure" → capability-reporting-disclosure.json
 Slides titled “Capability Evolution” and "Capability Record To Report – Controls & Assurance" → capability-controls-assurance.json
 Slides titled  "Demand & innovation pipeline" → innovation-pipeline.json

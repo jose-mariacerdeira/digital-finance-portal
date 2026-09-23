@@ -1,0 +1,25 @@
+
+
+1. Source PowerPoint
+Use the attached "XXXXXXXXXXXXXXX" as the source of content.
+
+
+3. Target capability
+Business Finance.
+Destination folder: docs/content/business-Finance/.
+
+4. Slide-to-file mapping
+
+Slides titled “Capability Evolution” and "Capability Financial Planning & Analysis - Forecasting" → capability-forecasting.json
+Slides titled “Capability Evolution” and "Capability Financial Planning & Analysis – Performance Management" → capability-performance-management.json
+Slides titled “Capability Evolution” and "Capability Financial Planning & Analysis – Data, Reporting & Analytics" → capability-data-reporting-analytics.json
+Slides titled “Capability Evolution” and "Capability Financial Planning & Analysis – Specialized & Operational Forecasting" → capability-specialized-operational-forecasting.json
+
+Slides titled  "Demand & innovation pipeline" → innovation-pipeline.json
+Slides titled  "Architecture & Design Topics" → architecture-topics.json
+Slides titled   "Investment Roadmap" → investment-roadmap.json
+Slides titled   "Decision log" → decision-log.json
+Slides titled "Actions, dependencies & escalations" → actions-escalations.json
+
+
+

@@ -664,22 +664,33 @@ tr:last-child td {
   color: grey;
 }
 
-.table-scroll {
-  width: 100%;
-  min-width: 0;
-  overflow-x: auto;
+
+table.wide-table {
+  display: table;*
+  width: 1800px;
+  min-width: 1800px;
+  white-space: normal;
+  overflow: visible;*/
+  table-layout: fixed;
 }
 
-.table-scroll > table {
-  display: table;
-  width: 1800px;
-  min-width: 1800px;
-  white-space: normal;
+/* First column 
+table.wide-table th:nth-child(1) {
+  width: 250px;
 }
-table.wide-table {
-  display: table;
-  width: 1800px;
-  min-width: 1800px;
-  white-space: normal;
-  overflow: visible;
+
+/* Second column 
+table.wide-table th:nth-child(2) {
+  width: 400px;
 }
+
+/* 3rd column 
+table.wide-table th:nth-child(3) {
+  width: 700px;
+}
+
+table.wide-table th,
+table.wide-table td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}*/

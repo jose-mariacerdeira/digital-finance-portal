@@ -1,0 +1,101 @@
+{
+  "pageTitle": "Demand & Innovation Pipeline | Business Finance",
+  "content": {
+    "a-r2r-portal": "Business Finance Portal",
+    "span-capability": "Capability",
+    "div-record-to-report": "Financial Planning & Analysis",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-demand-innovation-pipeline": "/ Demand & Innovation Pipeline",
+    "h1-demand-innovation-pipeline": "Demand & Innovation Pipeline",
+    "p-move-ideas-through-transparent-evidence-ba": "Move ideas through a transparent, evidence-based governance framework",
+    "div-explore": "Explore [01]",
+    "div-validate": "Technology Validation [02]",
+    "div-poc-pilot": "PoC / Pilot [00]",
+    "div-ready-to-scale": "Ready to scale [00]",
+    "h2-priority-opportunities-and-decisions": "Priority opportunities and decisions",
+    "p-the-source-slide-contains-a-p2p-example-in": ""
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Idea / initiative"
+        },
+        {
+          "html": "Problem / opportunity"
+        },
+        {
+          "html": "Value"
+        },
+        {
+          "html": "Stage"
+        },
+        {
+          "html": "Decision / next step"
+        },
+        {
+          "html": "Owner"
+        },
+        {
+          "html": "Next milestone"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Pigment for cash forecast</b>"
+          },
+          {
+            "html": "Deliver <b>automated indirect cash forecast</b> reducing manual effort and improving decision quality and speed"
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Technology Validation"
+          },
+          {
+            "html": "Launch PoC or Pilot"
+          },
+          {
+            "html": "Asli Karapinar"
+          },
+          {
+            "html": "September 2026"
+          }
+        ],
+        [
+          {
+            "html": "<b>OneSE Forecast</b>"
+          },
+          {
+            "html": "Create a <b>single, AI-enabled, touchless end-to-end forecasting process</b> that aligns demand, supply, operations, and finance"
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Technology Validation"
+          },
+          {
+            "html": "Launch PoC or Pilot"
+          },
+          {
+            "html": "Guillermo Toranzo"
+          },
+          {
+            "html": "December 2026"
+          }
+        ]
+      ]
+    }
+  ]
+}

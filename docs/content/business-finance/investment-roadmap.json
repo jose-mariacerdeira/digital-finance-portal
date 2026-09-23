@@ -1,0 +1,117 @@
+{
+  "pageTitle": "Investment Roadmap | Business Finance",
+  "content": {
+    "a-r2r-portal": "Business Finance Portal",
+    "span-capability": "Capability",
+    "div-record-to-report": "Financial Planning & Analysis",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-investment-roadmap": "/ Investment Roadmap",
+    "h1-investment-roadmap": "Investment Roadmap",
+    "p-funding-commitments-requests-conditions-an": "Show where funding is committed, requested or conditional across the transformation roadmap",
+    "h2-investment-profile": "Investment profile",
+    "h2-investment-choices": "Investment choices",
+    "h3-commit-now": "Commit now",
+    "p-initiatives-amount": "Initiatives / amount",
+    "h3-condition-funding": "Condition funding",
+    "p-gate-or-evidence-needed": "Gate or evidence needed",
+    "h3-defer": "Defer",
+    "p-reason-review-date": "Reason / review date",
+    "h3-close-gap": "Close gap",
+    "p-sponsor-decision-forum": "Sponsor / decision forum",
+    "p-the-investment-examples-originate-from-p2p": ""
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Initiative"
+        },
+        {
+          "html": "2026"
+        },
+        {
+          "html": "2027"
+        },
+        {
+          "html": "Funding 2026"
+        },
+        {
+          "html": "Funding 2027"
+        },
+        {
+          "html": "Headcount available / demand"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Pigment for Cash Forecast / OneSE</b>"
+          },
+          {
+            "html": "n/a"
+          },
+          {
+            "html": "105 k€"
+          },
+          {
+            "html": "n/a"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "-/?"
+          }
+        ],
+        [
+          {
+            "html": "<b>DFL Deployment for UNIFY</b>"
+          },
+          {
+            "html": "n/a"
+          },
+          {
+            "html": "738 k€"
+          },
+          {
+            "html": "n/a"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": "8/8"
+          }
+        ],
+        [
+          {
+            "html": "<b>DFL Horizon support & Evolution</b>"
+          },
+          {
+            "html": "3,38 M€"
+          },
+          {
+            "html": "2,8 M€"
+          },
+          {
+            "html": "<span class=\"tag\">Committed</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          }
+        ]
+      ]
+    }
+  ]
+}

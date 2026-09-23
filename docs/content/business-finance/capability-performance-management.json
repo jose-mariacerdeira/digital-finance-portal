@@ -1,0 +1,97 @@
+{
+  "pageTitle": "Capability Evolution | Business Finance",
+  "content": {
+    "a-business-finance-portal": "Business Finance Portal",
+    "div-capability-evolution-accounting": "/ Capability Evolution",
+    "h1-capability-evolution-accounting": "Capability Evolution",
+    "p-accounting-policy-ledger-engine-and-financ": "Capability-led view linking market sub-capabilities, maturity gaps, priorities and investment initiatives",
+    "span-capability": "Capability",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner / BPO Lead",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "h2-investment-priorities": "Investment priorities",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-record-to-report": "Financial Planning & Analysis – Performance Management",
+    "p-one-sentence-describing-the-future-ambitio": "Enable an integrated, intelligent and business-owned FP&A capability that connects strategy, planning, forecasting and performance management, using trusted data, scalable platforms and explainable AI to continuously anticipate change, simulate scenarios and accelerate value-based decisions.",
+    "li-largest-current-to-target-gap": "Direct CCO for CTO and Equipment",
+    "li-critical-market-or-technology-gap": "Reconciliation between managerial and statutory consolidation",
+    "li-business-outcome-currently-constrained": "Data quality improvement • Semantic layer as enabler of ad-hoc data exploration and semantic consistency across applications, FIDS data platform and AI agents and tools • AI based data analysis",
+    "li-priority-platform": "DFL Deployment for UNIFY",
+    "li-priority-data-enabler": "",
+    "li-priority-poc-or-emerging-technology": ""
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Technology radar"
+        },
+        {
+          "html": "Priority"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Management consolidation</b>"
+          },
+          {
+            "html": "Management Group financial statements."
+          },
+          {
+            "html": "Current <b>consolidation</b> process is built around <b>SAP ECC</b> and S/4, <b>DFL</b>, <b>FIDS</b> and <b>Tagetik</b>"
+          },
+          {
+            "html": "• Direct CCO for CTO and Equipment and <b>stop manual inputs</b> for E2E P&L Actuals<br/>• <b>Managerial vs Statutory consolidation reconciliation</b>"
+          },
+          {
+            "html": "<b>CCH Tagetik</b>, <b>OneStream</b>, <b>Pigment</b>, <b>Anaplan</b>, <b>Oracle FCCS</b>, <b>SAP Group Reporting, PaPM</b>"
+          },
+          {
+            "html": "<span class=\"tag amber\">2</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Performance Management</b>"
+          },
+          {
+            "html": "• Plan-versus-actual and variance analysis<br/>• Profitability and <b>performance</b> analysis<br/>• Management reporting<br/>• Narrative reporting"
+          },
+          {
+            "html": "<b>Horizon/Tagetik</b> uses governed <b>performance</b> data, supporting <b>managerial</b> financial statements for actual and Y-1 proforma, including:<br/>• AOC (Analysis of Change)<br/>• GM / Front Office AOC<br/>• Supply Chain AOC (Manufacturing + ETO + Logistics + Consolidation)<br/>• SFC AOC<br/>• Forecast versus actual analysis<br/>• Standardized performance views in Tagetik and Tableau"
+          },
+          {
+            "html": "• Improve <b>Data Quality</b><br/>• <b>Ad-hoc</b> drill down and self-service data exploration<br/>• <b>AI-enabled</b> data analysis<br/>• <b>Semantic consistency</b> across applications, data platforms, tools, AI agents and solutions<br/>• Narrative reporting"
+          },
+          {
+            "html": "<b>Tagetik</b>; <b>Anaplan</b>; <b>Pigment</b>; Board; <b>Oracle EPM</b>; <b>SAP Analytics Cloud</b>, <b>PaPM</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

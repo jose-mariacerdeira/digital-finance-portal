@@ -2,9 +2,6 @@
   "pageTitle": "Demand & Innovation Pipeline | R2R",
   "content": {
     "a-r2r-portal": "R2R Portal",
-    "div-demand-innovation-pipeline": "/ Demand & Innovation Pipeline",
-    "h1-demand-innovation-pipeline": "Demand & Innovation Pipeline",
-    "p-move-ideas-through-transparent-evidence-ba": "Move ideas through transparent, evidence-based governance",
     "span-capability": "Capability",
     "div-record-to-report": "Record To Report",
     "span-capability-owner": "Capability Owner",
@@ -13,14 +10,17 @@
     "div-david-tippings": "David Tippings",
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
-    "div-explore": "Explore [##]",
-    "div-validate": "Validate [##]",
-    "div-poc-pilot": "PoC / Pilot [##]",
-    "div-ready-to-scale": "Ready to scale [##]",
-    "h2-priority-opportunities-and-decisions": "Priority opportunities and decisions",
-    "p-the-source-slide-contains-a-p2p-example-in": "The source slide contains a P2P example inside the R2R deck. Validate before publishing.",
     "a-previous": "Previous",
-    "a-next": "Next"
+    "a-next": "Next",
+    "div-demand-innovation-pipeline": "/ Demand & Innovation Pipeline",
+    "h1-demand-innovation-pipeline": "Demand & Innovation Pipeline",
+    "p-move-ideas-through-transparent-evidence-ba": "Move ideas through a transparent, evidence-based governance framework",
+    "div-explore": "Explore [01]",
+    "div-validate": "Technology Validation [01]",
+    "div-poc-pilot": "PoC / Pilot [02]",
+    "div-ready-to-scale": "Ready to scale [02]",
+    "h2-priority-opportunities-and-decisions": "Priority opportunities and decisions",
+    "p-the-source-slide-contains-a-p2p-example-in": ""
   },
   "tables": [
     {
@@ -51,22 +51,137 @@
       "rows": [
         [
           {
-            "html": "<b>Rossum for Coupa</b>"
+            "html": "<b>UNIFY, Titan, KungPeng deployment</b>"
           },
           {
-            "html": "AI-based invoice document understanding and potential replacement of existing capture tools."
+            "html": "Fragmented legacy ERPs prevent standardized global accounting and reporting"
           },
           {
             "html": "<span class=\"tag\">High</span>"
           },
           {
+            "html": "Ready to scale"
+          },
+          {
+            "html": "Continue deployment and geographic sequencing"
+          },
+          {
+            "html": "Mehmet Ali Ozerkan"
+          },
+          {
+            "html": "GSC Go-lives 2026"
+          }
+        ],
+        [
+          {
+            "html": "<b>SAP Advanced Financial Closing</b>"
+          },
+          {
+            "html": "Redwood exit and Excel-based close checklists limit close orchestration"
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Technology Validation"
+          },
+          {
+            "html": "Confirm SAP AFC as target close platform"
+          },
+          {
+            "html": "David Tippings"
+          },
+          {
+            "html": "?"
+          }
+        ],
+        [
+          {
+            "html": "<b>SAP PaPM for analytical allocations</b>"
+          },
+          {
+            "html": "Limited allocation and management accounting calculation capability"
+          },
+          {
+            "html": "<span class=\"tag amber\">Medium</span>"
+          },
+          {
             "html": "Explore"
           },
           {
-            "html": "<span class=\"tag amber\">Hold</span>"
+            "html": "Scope use cases and business case"
           },
           {
-            "html": "Amanda Cohen"
+            "html": ""
+          },
+          {
+            "html": "?"
+          }
+        ],
+        [
+          {
+            "html": "<b>Intercompany matching remediation (ICMR)</b>"
+          },
+          {
+            "html": "Share of intercompany transactions still unmatched after ICMR deployment"
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "PoC / Pilot"
+          },
+          {
+            "html": "Root-cause analysis and AI-assisted resolution roadmap"
+          },
+          {
+            "html": "Adam Przadka"
+          },
+          {
+            "html": "November 2026"
+          }
+        ],
+        [
+          {
+            "html": "<b>SAP DRC deployment for e-invoicing</b>"
+          },
+          {
+            "html": "Local e-invoicing and regulatory compliance requirements not covered"
+          },
+          {
+            "html": "<span class=\"tag\">High</span>"
+          },
+          {
+            "html": "Ready to scale"
+          },
+          {
+            "html": "Confirm operating model for deployment in line with UNIFY"
+          },
+          {
+            "html": "David Tippings"
+          },
+          {
+            "html": "?"
+          }
+        ],
+        [
+          {
+            "html": "<b>CCH Tagetik for transitory statutory reporting</b>"
+          },
+          {
+            "html": "Entities temporarily split across two ERPs during UNIFY deployment"
+          },
+          {
+            "html": "<span class=\"tag amber\">Medium</span>"
+          },
+          {
+            "html": "PoC / Pilot"
+          },
+          {
+            "html": "?"
+          },
+          {
+            "html": "David Tippings"
           },
           {
             "html": "September 2026"

@@ -2,9 +2,6 @@
   "pageTitle": "Architecture & Design Topics | R2R",
   "content": {
     "a-r2r-portal": "R2R Portal",
-    "div-architecture-design-topics": "/ Architecture & Design Topics",
-    "h1-architecture-design-topics": "Architecture & Design Topics",
-    "p-strategic-architecture-decisions-requiring": "Strategic architecture decisions requiring business alignment",
     "span-capability": "Capability",
     "div-record-to-report": "Record To Report",
     "span-capability-owner": "Capability Owner",
@@ -13,6 +10,11 @@
     "div-david-tippings": "David Tippings",
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-architecture-design-topics": "/ Architecture & Design Topics",
+    "h1-architecture-design-topics": "Architecture & Design Topics",
+    "p-strategic-architecture-decisions-requiring": "Strategic architecture decisions, cross-capability implications, major deviations or Design Authority topics requiring business alignment",
     "h3-new-platform": "New platform",
     "p-assess-platform-introduction-and-transitio": "Assess platform introduction and transition implications.",
     "h3-new-standard": "New standard",
@@ -26,9 +28,7 @@
     "h3-assess-further": "Assess further",
     "p-targeted-evidence-or-design-work-required": "Targeted evidence or design work required.",
     "h3-escalate": "Escalate",
-    "p-leadership-funding-or-policy-decision-requ": "Leadership, funding or policy decision required.",
-    "a-previous": "Previous",
-    "a-next": "Next"
+    "p-leadership-funding-or-policy-decision-requ": "Leadership sponsorship, funding or policy decision required."
   },
   "tables": [
     {
@@ -53,17 +53,50 @@
       "rows": [
         [
           {
-            "html": "<b>Future of P2P invoicing with AI support</b><br/>Vendor queries, duplicate tracing, common mailbox and reconciliation."
+            "html": "<b>Close Automation Target Architecture</b>"
           },
           {
-            "html": "Decommissioning risk and technical debt from an interim solution."
+            "html": "• Should SAP AFC become the strategic enterprise close platform for UNIFY, Titan and KungPeng?"
           },
           {
             "html": "<span class=\"tag blue\">New platform</span>"
           },
           {
-            "html": "Pending",
-            "class": "placeholder"
+            "html": "Under investigation"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Future of BlackLine for MJE governance and balance-sheet reconciliation</b>"
+          },
+          {
+            "html": "• BlackLine does not support S/4HANA Public Cloud connectivity for some use cases.<br/>• Journal Management gap exists.<br/>• Reconciliation strategy not finalized.<br/>• Temporary offline mode is being considered."
+          },
+          {
+            "html": "<span class=\"tag\">New standard</span>"
+          },
+          {
+            "html": "Under investigation"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>HFM replacement strategy</b>"
+          },
+          {
+            "html": "• Oracle HFM obsolescence.<br/>• Management reporting and consolidation transformation."
+          },
+          {
+            "html": "<span class=\"tag blue\">New platform</span>"
+          },
+          {
+            "html": "On hold"
           },
           {
             "html": "<span class=\"tag amber\">Pending</span>"

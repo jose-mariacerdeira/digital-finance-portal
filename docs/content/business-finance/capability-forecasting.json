@@ -1,0 +1,117 @@
+{
+  "pageTitle": "Capability Evolution | Business Finance",
+  "content": {
+    "a-business-finance-portal": "Business Finance Portal",
+    "div-capability-evolution-accounting": "/ Capability Evolution",
+    "h1-capability-evolution-accounting": "Capability Evolution",
+    "p-accounting-policy-ledger-engine-and-financ": "Capability-led view linking market sub-capabilities, maturity gaps, priorities and investment initiatives",
+    "span-capability": "Capability",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner / BPO Lead",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "h2-investment-priorities": "Investment priorities",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-record-to-report": "Financial Planning & Analysis - Forecasting",
+    "p-one-sentence-describing-the-future-ambitio": "Enable an integrated, intelligent and business-owned FP&A capability that connects strategy, planning, forecasting and performance management, using trusted data, scalable platforms and explainable AI to continuously anticipate change, simulate scenarios and accelerate value-based decisions.",
+    "li-largest-current-to-target-gap": "AI based predictive forecasting",
+    "li-critical-market-or-technology-gap": "Fully automated Driver-based forecasting enabled by AI",
+    "li-business-outcome-currently-constrained": "Indirect cash forecast • Solve Tagetik performance issues • Solve Tagetik maintainability and evolution issues • Top-down / bottom-up planning (flexible data entry at different hierarchy levels)",
+    "li-priority-platform": "Indirect cash forecast",
+    "li-priority-data-enabler": "Strategic Plan 2.0 design, simplification and data-flow formalization",
+    "li-priority-poc-or-emerging-technology": ""
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Technology radar"
+        },
+        {
+          "html": "Priority"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Core Financial Planning & Forecasting</b>"
+          },
+          {
+            "html": "• Budgeting<br/>• <b>Rolling and continuous forecasting</b><br/>• Integrated P&L, balance sheet and <b>cash-flow</b> planning (indirect <b>cash flow</b>)<br/>• <b>Driver-based</b> planning<br/>• <b>Top-down</b> and <b>bottom-up</b> planning"
+          },
+          {
+            "html": "• <b>Tagetik</b> is the established enterprise EPM planning foundation supporting the <b>financial forecast</b> and <b>rolling forecast</b><br/>• <b>Statutory</b> P&L and balance-sheet inputs flow through <b>HFM</b>/<b>IDS</b><br/>• <b>Driver based forecast</b> is implemented with significant challenges requiring <b>manual adjustments</b><br/>• <b>Tool issues</b> have been pointed by finance. Investigation exposed <b>model-complexity</b>, <b>scalability, performance</b> and <b>maintenance challenges</b>. These are not all proven tool limitations and further studies are required.<br/>• <b>Top-down</b> / <b>bottom-up</b> planning: <b>Tagetik</b> provides governed centralized models, but flexible multi-level entry, allocation and <b>reconciliation</b> rules still require design and validation; transparent <b>hybrid planning</b> is the proposed <b>target state</b>"
+          },
+          {
+            "html": "• <b>AI-enabled forecasts</b><br/>• <b>Driver-based and AI-based predictive forecasting</b><br/>• <b>Business-owned modeling agility</b><br/>• <b>Interactive scenario simulation and what-if analysis</b><br/>• Embedded and explainable AI<br/>• <b>Indirect cash forecast in BS</b>"
+          },
+          {
+            "html": "<b>Tagetik</b>; <b>OneStream</b>; <b>Oracle EPM</b>; <b>Anaplan</b>; <b>Pigment</b>; <b>SAP Analytics Cloud Planning</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Strategic Planning & Target Setting</b>"
+          },
+          {
+            "html": "• Long-range <b>strategic</b> planning<br/>• Strategy-to-financial-plan linkage<br/>• Capital investment and portfolio planning<br/>• Project financial planning<br/>• Profitability, cost and margin planning"
+          },
+          {
+            "html": "• <b>Strategic Planning</b> is live in <b>Tagetik</b> EPM and <b>Tableau</b>; the 2026 cycle covers 2025–2030 and went live on March 20, 2026<br/>• Target setting remains partly Excel/OPUS-based"
+          },
+          {
+            "html": "• <b>Strategic Plan 2.0</b> design, simplification and data-flow formalization are underway"
+          },
+          {
+            "html": "<b>Tagetik</b>; <b>Anaplan</b>; <b>Pigment</b>; Board; <b>Oracle EPM</b>; <b>SAP Analytics Cloud Planning</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Scenario, Simulation & Predictive Planning</b>"
+          },
+          {
+            "html": "• <b>What-if</b> and <b>sensitivity analysis</b><br/>• Scenario management<br/>• Probabilistic and stochastic simulation<br/>• <b>Predictive forecasting</b><br/>• External-driver modeling<br/>• <b>AI-assisted</b> plan generation"
+          },
+          {
+            "html": "• Not used"
+          },
+          {
+            "html": "• Capability expected to be available to forecast processes"
+          },
+          {
+            "html": "<b>Pigment</b>; <b>Anaplan</b>; <b>Tagetik</b>; <b>OneStream</b>; <b>Oracle EPM</b>; <b>SAP Analytics Cloud Planning</b>; <b>Joule</b>/SAC; <b>Microsoft Copilot</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

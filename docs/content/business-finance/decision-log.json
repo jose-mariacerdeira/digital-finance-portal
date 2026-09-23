@@ -1,0 +1,217 @@
+{
+  "pageTitle": "Decision Log | Business Finance",
+  "content": {
+    "a-r2r-portal": "Business Finance Portal",
+    "span-capability": "Capability",
+    "div-record-to-report": "Financial Planning & Analysis",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-decision-log": "/ Decision Log",
+    "h1-decision-log": "Decision Log",
+    "p-record-choices-rationale-and-downstream-im": "Record the choice, rationale and downstream impact while the discussion is fresh"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "ID"
+        },
+        {
+          "html": "Decision"
+        },
+        {
+          "html": "Rationale / evidence"
+        },
+        {
+          "html": "Impact"
+        },
+        {
+          "html": "Decision owner"
+        },
+        {
+          "html": "Effective date"
+        },
+        {
+          "html": "Status"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>D01</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Confirmed</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>D02</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Confirmed</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>D03</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Confirmed</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>D04</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag\">Confirmed</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>D05</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>D06</b>"
+          },
+          {
+            "html": "Decision statement",
+            "class": "placeholder"
+          },
+          {
+            "html": "Why this option was selected",
+            "class": "placeholder"
+          },
+          {
+            "html": "Roadmap / budget / architecture",
+            "class": "placeholder"
+          },
+          {
+            "html": "Name",
+            "class": "placeholder"
+          },
+          {
+            "html": "DD MMM",
+            "class": "placeholder"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

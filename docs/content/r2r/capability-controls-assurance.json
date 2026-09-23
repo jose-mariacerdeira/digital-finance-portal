@@ -14,16 +14,16 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "h2-capability-vision": "Capability vision",
-    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "p-one-sentence-describing-the-future-ambitio": "Establish a standardized, automated, and continuously monitored control environment that proactively manages financial risk, enforces segregation of duties, and ensures compliant, audit-ready financial operations across Schneider Electric.",
     "h2-sub-capability-assessment": "Sub-capability assessment",
     "h2-top-capability-gaps": "Top capability gaps",
-    "li-largest-current-to-target-gap": "Largest current-to-target gap",
-    "li-critical-market-or-technology-gap": "Critical market or technology gap",
-    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "li-largest-current-to-target-gap": "Fragmented SoD and control monitoring across legacy and UNIFY landscapes",
+    "li-critical-market-or-technology-gap": "Lack of enterprise-wide continuous controls monitoring",
+    "li-business-outcome-currently-constrained": "Limited AI-driven risk and anomaly detection",
     "h2-investment-priorities": "Investment priorities",
-    "li-priority-platform": "Priority platform",
-    "li-priority-data-enabler": "Priority data enabler",
-    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "li-priority-platform": "Implement role governance and SoD monitoring aligned with SAP S/4HANA",
+    "li-priority-data-enabler": "",
+    "li-priority-poc-or-emerging-technology": "",
     "a-previous": "Previous",
     "a-next": "Next"
   },
@@ -59,65 +59,36 @@
             "html": "<b>Financial controls framework &amp; SoD</b>"
           },
           {
-            "html": "Access controls, certifications and GRC convergence"
+            "html": "Manage financial controls, SoD risks, compliance and governance."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Mature governance capability supported by strong internal controls, certification processes, role governance and audit frameworks."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "UNIFY initiatives focus on standardizing controls, strengthening SAP-native authorization models and reducing SoD risks."
           },
           {
-            "html": "<span class=\"tag\">1</span>"
+            "html": "<span class=\"tag amber\">2</span>"
           },
           {
-            "html": "Initiative A • Initiative B"
+            "html": "UNIFY role governance"
           },
           {
-            "html": "SAP GRC, Pathlock, Diligent, MetricStream"
+            "html": "SAP S/4HANA, SAP Workflows, SAP GRC, automated compliance controls, AI-assisted control monitoring"
           }
         ],
         [
           {
-            "html": "<b>Continuous controls monitoring</b>"
+            "html": "<b>Continuous controls monitoring &amp; accounting anomaly detection</b>"
           },
           {
-            "html": "Automated testing and alerts"
+            "html": "Continuously monitor transactions, users, controls and exceptions to detect policy violations, control failures, fraud indicators or SoD conflicts in near real time."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Fragmented across different tools, with Competency Centers building controls in Excel."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": "Pathlock, Oversight, Diligent, MetricStream"
-          }
-        ],
-        [
-          {
-            "html": "<b>Accounting anomaly detection</b>"
-          },
-          {
-            "html": "AI detection and risk scoring"
-          },
-          {
-            "html": "To assess",
-            "class": "placeholder"
-          },
-          {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "No transformation planned."
           },
           {
             "html": ""
@@ -126,32 +97,7 @@
             "html": ""
           },
           {
-            "html": "BlackLine AI, Trintech AI, MindBridge"
-          }
-        ],
-        [
-          {
-            "html": "<b>Audit collaboration</b>"
-          },
-          {
-            "html": "PBC workflow and findings management"
-          },
-          {
-            "html": "To assess",
-            "class": "placeholder"
-          },
-          {
-            "html": "To define",
-            "class": "placeholder"
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": "Diligent, AuditBoard, Workiva"
+            "html": "SAP Process Control, SAP GRC Process Control, AuditBoard CCM, HighBond, Pathlock CCM"
           }
         ]
       ]

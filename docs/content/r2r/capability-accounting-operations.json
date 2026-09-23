@@ -14,16 +14,16 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "h2-capability-vision": "Capability vision",
-    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "p-one-sentence-describing-the-future-ambitio": "Deliver a standardized, automated, and real-time accounting operation powered by SAP S/4HANA, enabling accurate financial reporting, intelligent close processes, and scalable finance operations.",
     "h2-sub-capability-assessment": "Sub-capability assessment",
     "h2-top-capability-gaps": "Top capability gaps",
-    "li-largest-current-to-target-gap": "Largest current-to-target gap",
-    "li-critical-market-or-technology-gap": "Critical market or technology gap",
-    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "li-largest-current-to-target-gap": "Manual journal entry tool for UNIFY, TITAN, KungPeng as BlackLine does not support S/4HANA Public Cloud",
+    "li-critical-market-or-technology-gap": "SAP AFC for closing automation",
+    "li-business-outcome-currently-constrained": "UNIFY deployment to standardize revenue accounting, fixed assets, and inventory & product costing",
     "h2-investment-priorities": "Investment priorities",
-    "li-priority-platform": "Priority platform",
-    "li-priority-data-enabler": "Priority data enabler",
-    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "li-priority-platform": "UNIFY, Titan, KungPeng",
+    "li-priority-data-enabler": "Closing automation solution for SAP S/4HANA public/on-premise",
+    "li-priority-poc-or-emerging-technology": "SAP PaPM for analytical P&L allocations",
     "a-previous": "Previous",
     "a-next": "Next"
   },
@@ -59,21 +59,19 @@
             "html": "<b>Journal entry management</b>"
           },
           {
-            "html": "Controlled processing, workflow, approvals and auto-reversal"
+            "html": "Journal preparation, approval, posting and adjustment are general-accounting activities."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "<b>BlackLine</b> is currently used for MJE preparation, approval and control in legacy ERP."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "UNIFY, TITAN, KungPeng: target tool under investigation as <b>BlackLine</b> does not support <b>S/4HANA Public Cloud</b> connectivity."
           },
           {
             "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": "Initiative A • Initiative B"
+            "html": "UNIFY • TITAN • KungPeng"
           },
           {
             "html": "BlackLine, Trintech, OneStream, Oracle, SAP"
@@ -84,49 +82,45 @@
             "html": "<b>Accruals, provisions &amp; allocations</b>"
           },
           {
-            "html": "Accurate period-end accounting and allocation automation"
+            "html": "Allocation engines and accrual automation for general accounting and management accounting."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Accruals and provisions are largely manual, with month-end postings and reversals performed operationally. Allocations are available through ERP allocation cycles."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "• <b>SAP AFC</b> for close automation and accrual posting<br/>• AI and automation initiatives under evaluation for provisions<br/>• <b>SAP PaPM</b> for advanced allocations and management accounting calculation"
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": ""
+            "html": "SAP AFC • SAP PaPM"
           },
           {
-            "html": "SAP, Oracle, Workday"
+            "html": "SAP AFC, BlackLine, Redwood, SAP PaPM, Oracle ERP, Workday, SAP Joule"
           }
         ],
         [
           {
-            "html": "<b>Revenue &amp; project accounting</b>"
+            "html": "<b>Revenue &amp; project, services and software accounting</b>"
           },
           {
-            "html": "Revenue compliance, contract accounting and WIP"
+            "html": "Revenue compliance, contract accounting and WIP."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Mainly managed in legacy ERP with classic revenue recognition. Software and services recurrent revenue models are not fully automated."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "Migration to <b>SAP S/4HANA EBRR</b>, supporting project, services and software revenue recognition, IFRS 15 compliance, margin management and subscription accounting."
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": ""
+            "html": "UNIFY"
           },
           {
-            "html": "SAP, Oracle, Workday, Microsoft"
+            "html": "SAP S/4HANA EBRR, SAP Revenue Accounting & Reporting, SAC, Horizon reporting"
           }
         ],
         [
@@ -134,24 +128,22 @@
             "html": "<b>Fixed assets &amp; lease accounting</b>"
           },
           {
-            "html": "Asset lifecycle, depreciation, IFRS16 and ASC842"
+            "html": "Manage asset lifecycles, depreciation, lease obligations and compliance."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Fixed Assets & Lease Accounting is mature and largely standardized."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "UNIFY has implemented <b>SAP Asset Accounting</b> as the strategic platform for asset lifecycle management, depreciation, transfers, retirement processing and Assets Under Construction."
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": ""
+            "html": "UNIFY"
           },
           {
-            "html": "SAP, Oracle, Nakisa, Visual Lease, FinQuery"
+            "html": "SAP S/4HANA, Planon (Lease Management / IFRS 16)"
           }
         ],
         [
@@ -159,24 +151,22 @@
             "html": "<b>Inventory &amp; product costing</b>"
           },
           {
-            "html": "Inventory valuation, standard and actual costing"
+            "html": "Inventory valuation, cost calculation, production costing and reserves."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Largely managed in legacy ERP with heterogeneous processes across factories. Further automation is needed for inventory provisions and manufacturing cost calculations."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "Global standardization through UNIFY, with <b>SAP S/4HANA</b> enabling harmonized standard costing, event-based production cost posting and improved inventory valuation."
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": ""
+            "html": "UNIFY"
           },
           {
-            "html": ""
+            "html": "SAP S/4HANA Product Costing"
           }
         ]
       ]

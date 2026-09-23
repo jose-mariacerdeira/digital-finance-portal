@@ -1,0 +1,97 @@
+{
+  "pageTitle": "Capability Evolution | Business Finance",
+  "content": {
+    "a-business-finance-portal": "Business Finance Portal",
+    "div-capability-evolution-accounting": "/ Capability Evolution",
+    "h1-capability-evolution-accounting": "Capability Evolution",
+    "p-accounting-policy-ledger-engine-and-financ": "Capability-led view linking market sub-capabilities, maturity gaps, priorities and investment initiatives",
+    "span-capability": "Capability",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner / BPO Lead",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "h2-investment-priorities": "Investment priorities",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-record-to-report": "Financial Planning & Analysis – Specialized & Operational Forecasting",
+    "p-one-sentence-describing-the-future-ambitio": "Enable an integrated, intelligent and business-owned FP&A capability that connects strategy, planning, forecasting and performance management, using trusted data, scalable platforms and explainable AI to continuously anticipate change, simulate scenarios and accelerate value-based decisions.",
+    "li-largest-current-to-target-gap": "Integrated Business Planning capability",
+    "li-critical-market-or-technology-gap": "",
+    "li-business-outcome-currently-constrained": "",
+    "li-priority-platform": "Integrated Business Planning capability within OneSE Forecast initiative",
+    "li-priority-data-enabler": "",
+    "li-priority-poc-or-emerging-technology": ""
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Technology radar"
+        },
+        {
+          "html": "Priority"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Specialized Finance Planning</b>"
+          },
+          {
+            "html": "• Cash, Liquidity & Working Capital Planning (Direct <b>cash flow</b>)<br/>• Capital-expenditure planning<br/>• Tax planning<br/>• Risk and opportunity planning<br/>• Sustainability and <b>ESG</b> planning"
+          },
+          {
+            "html": "• <b>Direct Cash forecast</b> implemented in AI Hub platform<br/>• Others not managed in digital platforms"
+          },
+          {
+            "html": "• -"
+          },
+          {
+            "html": "<b>Tagetik</b>; <b>Oracle EPM</b>; <b>OneStream</b>; <b>SAP Treasury</b> + <b>SAC Planning</b>; <b>Pigment</b>; <b>Anaplan</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>Extended Operational Planning / xP&A</b>"
+          },
+          {
+            "html": "• Workforce planning<br/>• Revenue, sales and commercial planning<br/>• Demand, supply, inventory and production planning<br/>• Sales and operations / integrated business planning<br/>• Project and service planning<br/>• Marketing, IT and other operational planning"
+          },
+          {
+            "html": "Not managed in digital platforms"
+          },
+          {
+            "html": "<b>OneSE Forecast</b> is Schneider Electric’s initiative to create a <b>single, AI-enabled, touchless end-to-end forecasting process</b> that aligns demand, supply, operations, and finance around one unified forecast across businesses and geographies"
+          },
+          {
+            "html": "<b>Workday Adaptive Planning</b>, <b>Anaplan</b>, <b>Pigment</b>, <b>Oracle EPM</b>, <b>SAP Analytics Cloud Planning</b>, Board, <b>SAP IBP</b>, <b>Kinaxis</b>, o9"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "pageTitle": "Architecture & Design Topics | Business Finance",
+  "content": {
+    "a-r2r-portal": "Business Finance Portal",
+    "span-capability": "Capability",
+    "div-record-to-report": "Financial Planning & Analysis",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-architecture-design-topics": "/ Architecture & Design Topics",
+    "h1-architecture-design-topics": "Architecture & Design Topics",
+    "p-strategic-architecture-decisions-requiring": "Strategic architecture decisions, cross-capability implications, major deviations or Design Authority topics requiring business alignment",
+    "h3-new-platform": "New platform",
+    "p-assess-platform-introduction-and-transitio": "Assess platform introduction and transition implications.",
+    "h3-new-standard": "New standard",
+    "p-define-alignment-with-enterprise-standards": "Define alignment with enterprise standards.",
+    "h3-major-deviation": "Major deviation",
+    "p-evaluate-rationale-impact-and-remediation": "Evaluate rationale, impact and remediation.",
+    "h2-architecture-topics": "Architecture topics",
+    "h2-decision-outcomes": "Decision outcomes",
+    "h3-approve": "Approve",
+    "p-direction-agreed-and-released-to-design-au": "Direction agreed and released to Design Authority.",
+    "h3-assess-further": "Assess further",
+    "p-targeted-evidence-or-design-work-required": "Targeted evidence or design work required.",
+    "h3-escalate": "Escalate",
+    "p-leadership-funding-or-policy-decision-requ": "Leadership sponsorship, funding or policy decision required."
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Topic"
+        },
+        {
+          "html": "Business &amp; cross-capability impact"
+        },
+        {
+          "html": "Architecture implication"
+        },
+        {
+          "html": "Recommendation"
+        },
+        {
+          "html": "Decision"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Close Automation Target Architecture</b>"
+          },
+          {
+            "html": "• Should <b>SAP AFC</b> become the <b>strategic</b> enterprise close platform for <b>UNIFY</b>, <b>Titan</b> and <b>KungPeng</b>?"
+          },
+          {
+            "html": "<span class=\"tag blue\">New platform</span>"
+          },
+          {
+            "html": "<b>Under investigation</b>"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ],
+        [
+          {
+            "html": "Future of <b>BlackLine</b><br/><b>For MJE governance and Balance Sheet reconciliation</b>"
+          },
+          {
+            "html": "• <b>BlackLine</b> does not support <b>S/4HANA</b> Public Cloud connectivity for some use cases.<br/>• Journal Management gap exists.<br/>• <b>Reconciliation</b> strategy not finalized.<br/>• Temporary \"offline mode\" is being considered"
+          },
+          {
+            "html": "<span class=\"tag\">New standard</span>"
+          },
+          {
+            "html": "<b>Under investigation</b>"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ],
+        [
+          {
+            "html": "<b>HFM replacement strategy</b>"
+          },
+          {
+            "html": "• <b>Oracle HFM obsolescence</b>.<br/>• Management reporting and consolidation transformation."
+          },
+          {
+            "html": "<span class=\"tag blue\">New platform</span>"
+          },
+          {
+            "html": "<b>On hold</b>"
+          },
+          {
+            "html": "<span class=\"tag amber\">Pending</span>"
+          }
+        ]
+      ]
+    }
+  ]
+}

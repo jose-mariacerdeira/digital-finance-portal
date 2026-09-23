@@ -14,16 +14,16 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "h2-capability-vision": "Capability vision",
-    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "p-one-sentence-describing-the-future-ambitio": "Deliver a touchless, controlled, and auditable financial close through automated orchestration, reconciliation, and certification across Schneider's global finance platforms.",
     "h2-sub-capability-assessment": "Sub-capability assessment",
     "h2-top-capability-gaps": "Top capability gaps",
-    "li-largest-current-to-target-gap": "Largest current-to-target gap",
-    "li-critical-market-or-technology-gap": "Critical market or technology gap",
-    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "li-largest-current-to-target-gap": "Close orchestration platform to exit Excel checklists",
+    "li-critical-market-or-technology-gap": "Account reconciliation and certification tool for target UNIFY/Titan as BlackLine does not support S/4HANA Public Cloud",
+    "li-business-outcome-currently-constrained": "Cleansing and better governance of the high volume of legacy AP and AR open items in ERP",
     "h2-investment-priorities": "Investment priorities",
-    "li-priority-platform": "Priority platform",
-    "li-priority-data-enabler": "Priority data enabler",
-    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "li-priority-platform": "UNIFY, Titan, KungPeng",
+    "li-priority-data-enabler": "Closing automation solution for SAP S/4HANA public/on-premise",
+    "li-priority-poc-or-emerging-technology": "",
     "a-previous": "Previous",
     "a-next": "Next"
   },
@@ -56,77 +56,25 @@
       "rows": [
         [
           {
-            "html": "<b>Close calendar &amp; orchestration</b>"
+            "html": "<b>Close planning, calendar and orchestration</b>"
           },
           {
-            "html": "Faster close through task management and workflow"
+            "html": "Orchestrate period-end close through schedules, tasks and workflows."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Close checklists managed through <b>Excel</b> and manual processes."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "After <b>Redwood</b> exit, <b>SAP Advanced Financial Closing</b> is being evaluated as the strategic platform for close orchestration, task automation and accrual posting."
           },
           {
             "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": "Initiative A • Initiative B"
+            "html": "SAP AFC"
           },
           {
-            "html": "BlackLine, Trintech, FloQast, OneStream, SAP AFC"
-          }
-        ],
-        [
-          {
-            "html": "<b>Subledger &amp; GL close</b>"
-          },
-          {
-            "html": "Complete period close and closing cockpit"
-          },
-          {
-            "html": "To assess",
-            "class": "placeholder"
-          },
-          {
-            "html": "To define",
-            "class": "placeholder"
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": "SAP, Oracle, BlackLine"
-          }
-        ],
-        [
-          {
-            "html": "<b>Balance-sheet reconciliation</b>"
-          },
-          {
-            "html": "Financial integrity, certification and workflow"
-          },
-          {
-            "html": "To assess",
-            "class": "placeholder"
-          },
-          {
-            "html": "To define",
-            "class": "placeholder"
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": "BlackLine, Trintech, FloQast, Adra"
+            "html": "BlackLine, Trintech, Oracle FCCS, SAP AFC, SAP Agentic AI"
           }
         ],
         [
@@ -134,49 +82,68 @@
             "html": "<b>Transaction matching</b>"
           },
           {
-            "html": "Rules-based and AI-supported matching"
+            "html": "Match transactions automatically before reconciliation: bank statements, AP, AR and GR/IR."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Mainly done in legacy ERP. High volume of unmatched transactions in open items and GR/IR accounts."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "No transformations ongoing."
+          },
+          {
+            "html": "<span class=\"tag\">3</span>"
           },
           {
             "html": ""
           },
           {
-            "html": ""
-          },
-          {
-            "html": "BlackLine, Trintech, AutoRek, ReconArt"
+            "html": "SAP S/4HANA"
           }
         ],
         [
           {
-            "html": "<b>Close evidence &amp; audit readiness</b>"
+            "html": "<b>Account reconciliation and certification</b>"
           },
           {
-            "html": "Documentation and evidence repository"
+            "html": "Account substantiation, reconciliation and certification support the financial close."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "<b>BlackLine</b> is the primary reconciliation platform for many entities, supporting balance-sheet reconciliations, certification workflows, documentation, preparer/approver controls and audit evidence retention."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "For UNIFY entities, reconciliations will temporarily be managed manually or through <b>BlackLine</b> offline mode while future automation options are assessed."
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": "Future reconciliation solution"
+          },
+          {
+            "html": "BlackLine, Trintech, SAP AFC, future SAP-native automation"
+          }
+        ],
+        [
+          {
+            "html": "<b>Close evidence &amp; audit collaboration</b>"
+          },
+          {
+            "html": "Manage close evidence, audit support, documentation and certifications."
+          },
+          {
+            "html": "Supported primarily through <b>BlackLine</b>, supplemented by <b>SharePoint</b>, SAP attachments, <b>Excel</b> workpapers and manual evidence packages."
+          },
+          {
+            "html": "For UNIFY entities, impacted by <b>Redwood</b> exit."
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
           },
           {
             "html": ""
           },
           {
-            "html": ""
-          },
-          {
-            "html": "BlackLine, Trintech, Workiva"
+            "html": "BlackLine, Trintech, Workiva, OneStream, Oracle FCCS"
           }
         ]
       ]

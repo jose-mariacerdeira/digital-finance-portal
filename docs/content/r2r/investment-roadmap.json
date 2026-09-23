@@ -2,9 +2,6 @@
   "pageTitle": "Investment Roadmap | R2R",
   "content": {
     "a-r2r-portal": "R2R Portal",
-    "div-investment-roadmap": "/ Investment Roadmap",
-    "h1-investment-roadmap": "Investment Roadmap",
-    "p-funding-commitments-requests-conditions-an": "Funding commitments, requests, conditions and capacity",
     "span-capability": "Capability",
     "div-record-to-report": "Record To Report",
     "span-capability-owner": "Capability Owner",
@@ -13,6 +10,11 @@
     "div-david-tippings": "David Tippings",
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-investment-roadmap": "/ Investment Roadmap",
+    "h1-investment-roadmap": "Investment Roadmap",
+    "p-funding-commitments-requests-conditions-an": "Show where funding is committed, requested or conditional across the transformation roadmap",
     "h2-investment-profile": "Investment profile",
     "h2-investment-choices": "Investment choices",
     "h3-commit-now": "Commit now",
@@ -23,9 +25,7 @@
     "p-reason-review-date": "Reason / review date",
     "h3-close-gap": "Close gap",
     "p-sponsor-decision-forum": "Sponsor / decision forum",
-    "p-the-investment-examples-originate-from-p2p": "The investment examples originate from P2P material in the source deck and should be reviewed before R2R publication.",
-    "a-previous": "Previous",
-    "a-next": "Next"
+    "p-the-investment-examples-originate-from-p2p": ""
   },
   "tables": [
     {
@@ -53,13 +53,33 @@
       "rows": [
         [
           {
-            "html": "<b>Invoice Management Transformation</b>"
+            "html": "<b>SAP Advanced Financial Closing</b>"
           },
           {
-            "html": "1.8 M€"
+            "html": "0€"
           },
           {
-            "html": "XX M€"
+            "html": "230K"
+          },
+          {
+            "html": "N/A"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": ""
+          }
+        ],
+        [
+          {
+            "html": "<b>Intercompany matching remediation (ICMR)</b>"
+          },
+          {
+            "html": "65K"
+          },
+          {
+            "html": "304K"
           },
           {
             "html": "<span class=\"tag\">Committed</span>"
@@ -68,27 +88,67 @@
             "html": "<span class=\"tag blue\">Requested</span>"
           },
           {
-            "html": "? / ?"
+            "html": ""
           }
         ],
         [
           {
-            "html": "<b>Invoice Management Transformation NAM</b>"
+            "html": "<b>Open Item Management ?</b>"
           },
           {
-            "html": "1.2 M€"
+            "html": "0€"
           },
           {
-            "html": "XX M€"
+            "html": "200K"
+          },
+          {
+            "html": "N/A"
           },
           {
             "html": "<span class=\"tag blue\">Requested</span>"
           },
           {
+            "html": ""
+          }
+        ],
+        [
+          {
+            "html": "<b>SERN Replacement ?</b>"
+          },
+          {
+            "html": "0€"
+          },
+          {
+            "html": "200K"
+          },
+          {
+            "html": "N/A"
+          },
+          {
             "html": "<span class=\"tag blue\">Requested</span>"
           },
           {
-            "html": "? / ?"
+            "html": ""
+          }
+        ],
+        [
+          {
+            "html": "<b>EDI</b>"
+          },
+          {
+            "html": "200K"
+          },
+          {
+            "html": "200K"
+          },
+          {
+            "html": "<span class=\"tag\">Committed</span>"
+          },
+          {
+            "html": "<span class=\"tag blue\">Requested</span>"
+          },
+          {
+            "html": ""
           }
         ]
       ]

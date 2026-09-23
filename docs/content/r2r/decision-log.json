@@ -2,9 +2,6 @@
   "pageTitle": "Decision Log | R2R",
   "content": {
     "a-r2r-portal": "R2R Portal",
-    "div-decision-log": "/ Decision Log",
-    "h1-decision-log": "Decision Log",
-    "p-record-choices-rationale-and-downstream-im": "Record choices, rationale and downstream impact",
     "span-capability": "Capability",
     "div-record-to-report": "Record To Report",
     "span-capability-owner": "Capability Owner",
@@ -14,7 +11,10 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "a-previous": "Previous",
-    "a-next": "Next"
+    "a-next": "Next",
+    "div-decision-log": "/ Decision Log",
+    "h1-decision-log": "Decision Log",
+    "p-record-choices-rationale-and-downstream-im": "Record the choice, rationale and downstream impact while the discussion is fresh"
   },
   "tables": [
     {

@@ -1,0 +1,129 @@
+{
+  "pageTitle": "Capability Evolution: Intercompany & Consolidation | R2R",
+  "content": {
+    "a-r2r-portal": "R2R Portal",
+    "div-capability-evolution-intercompany-consolid": "/ Capability Evolution: Intercompany & Consolidation",
+    "h1-capability-evolution-intercompany-consolid": "Capability Evolution: Intercompany & Consolidation",
+    "p-intercompany-accounting-legal-and-manageme": "Intercompany accounting, legal and management consolidation",
+    "span-capability": "Capability",
+    "div-record-to-report": "Record To Report",
+    "span-capability-owner": "Capability Owner",
+    "div-soni-chhawchharia": "Agnieszka Koziak",
+    "span-finance-partner": "Finance Partner / BPO Lead",
+    "div-david-tippings": "David Carrion / Sophia AMRAN",
+    "span-review-period": "Review Period",
+    "div-september-2026": "September 2026",
+    "h2-capability-vision": "Capability vision",
+    "p-one-sentence-describing-the-future-ambitio": "Enable a single, trusted and intelligent Group reporting and consolidation capability that delivers timely, compliant and transparent statutory and management reporting through standardized processes, automated consolidation and a unified financial data foundation.",
+    "h2-sub-capability-assessment": "Sub-capability assessment",
+    "h2-top-capability-gaps": "Top capability gaps",
+    "li-largest-current-to-target-gap": "Replace legacy Oracle HFM technology.",
+    "li-critical-market-or-technology-gap": "Simplify and standardize legal entity reporting.",
+    "li-business-outcome-currently-constrained": "Improve integration between statutory and management consolidation.",
+    "h2-investment-priorities": "Investment priorities",
+    "li-priority-platform": "-",
+    "li-priority-data-enabler": "",
+    "li-priority-poc-or-emerging-technology": "",
+    "a-previous": "Previous",
+    "a-next": "Next"
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "headers": [
+        {
+          "html": "Digital market sub-capability"
+        },
+        {
+          "html": "Purpose"
+        },
+        {
+          "html": "Current state"
+        },
+        {
+          "html": "Target state"
+        },
+        {
+          "html": "Priority"
+        },
+        {
+          "html": "Key initiatives / enablers"
+        },
+        {
+          "html": "Technology radar"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "html": "<b>Intercompany accounting &amp; reconciliation</b>"
+          },
+          {
+            "html": "Reduce intercompany disputes through matching, settlement and netting."
+          },
+          {
+            "html": "<b>Oracle ICT</b> is the legacy intercompany matching tool, transitioning to <b>SAP S/4HANA ICMR</b>."
+          },
+          {
+            "html": "• <b>SAP ICMR</b> deployment for intercompany matching.<br/>• Explore root causes for the 10% of transactions not matched by ICMR and establish semantic context for Agentic AI-assisted resolution."
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": "SAP ICMR • AI-assisted remediation"
+          },
+          {
+            "html": "BlackLine, OneStream, Oracle, SAP, Trintech, Agentic AI, SAP Agentic AI"
+          }
+        ],
+        [
+          {
+            "html": "<b>Legal consolidation</b>"
+          },
+          {
+            "html": "Consolidate legal entities, eliminations, ownership and group consolidated statutory results."
+          },
+          {
+            "html": "Group <b>IFRS</b>/<b>statutory consolidation</b> and Group reporting run in <b>Oracle HFM</b>/OPUS, fed from ERPs through <b>DFL</b>/FDMEE, with validation, promotion, review controls and consolidated Group outputs."
+          },
+          {
+            "html": "• Replace legacy <b>Oracle HFM</b> technology.<br/>• Simplify and <b>standardize</b> legal entity reporting.<br/>• Improve <b>integration</b> between <b>statutory</b> and management <b>consolidation</b>."
+          },
+          {
+            "html": "<span class=\"tag\">3</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "OneStream, Oracle FCCS, SAP Group Reporting, CCH Tagetik"
+          }
+        ],
+        [
+          {
+            "html": "<b>ESG reporting</b>"
+          },
+          {
+            "html": "Collect, control and disclose sustainability information."
+          },
+          {
+            "html": "• Source data come from operational source systems and governed flat files<br/>• IntelDS calculates <b>CSRD</b> data mart<br/>• EcoStruxure Resource Advisor manages indicators<br/>• PomDoc used for disclosure<br/>• Publication in se.com sustainability reports"
+          },
+          {
+            "html": "-"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": ""
+          }
+        ]
+      ]
+    }
+  ]
+}

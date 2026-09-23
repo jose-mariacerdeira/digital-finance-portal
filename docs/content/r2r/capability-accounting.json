@@ -14,16 +14,16 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "h2-capability-vision": "Capability vision",
-    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "p-one-sentence-describing-the-future-ambitio": "Establish a standardized global accounting foundation through SAP S/4HANA and S/4HANA Public Cloud, enabling consistent policies, master data, controls, and financial reporting across the enterprise.",
     "h2-sub-capability-assessment": "Sub-capability assessment",
     "h2-top-capability-gaps": "Top capability gaps",
-    "li-largest-current-to-target-gap": "Largest current-to-target gap",
-    "li-critical-market-or-technology-gap": "Critical market or technology gap",
-    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "li-largest-current-to-target-gap": "Migration to SAP S/4HANA technology and standardize processes and solutions across all geographies",
+    "li-critical-market-or-technology-gap": "",
+    "li-business-outcome-currently-constrained": "",
     "h2-investment-priorities": "Investment priorities",
-    "li-priority-platform": "Priority platform",
-    "li-priority-data-enabler": "Priority data enabler",
-    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "li-priority-platform": "UNIFY, Titan, KungPeng",
+    "li-priority-data-enabler": "",
+    "li-priority-poc-or-emerging-technology": "",
     "a-previous": "Previous",
     "a-next": "Next"
   },
@@ -56,27 +56,48 @@
       "rows": [
         [
           {
-            "html": "<b>Accounting policy, multi-GAAP rules &amp; GL engine</b>"
+            "html": "<b>General ledger and multi-GAAP accounting</b>"
           },
           {
-            "html": "Consistent accounting treatment through policy and rules management"
+            "html": "Core general-ledger accounting and period accounting."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "General Ledger accounting managed in <b>ERP Federation</b> and other <b>legacy ERPs</b>"
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "UNIFY, Titan, KungPeng deployment"
           },
           {
             "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": "Initiative A • Initiative B"
+            "html": "UNIFY • Titan • KungPeng"
           },
           {
-            "html": "SAP S/4HANA, Oracle Fusion, Dynamics 365, Workday, Infor"
+            "html": "SAP S/4HANA, Oracle Fusion Cloud ERP, Microsoft Dynamics 365, Workday, Infor"
+          }
+        ],
+        [
+          {
+            "html": "<b>Accounting rules and policy execution</b>"
+          },
+          {
+            "html": "Accounting-policy definition, publication and execution."
+          },
+          {
+            "html": "Accounting policies are defined in <b>SharePoint</b> and implemented in SAP configuration"
+          },
+          {
+            "html": "Introduction of additional technologies to support SE-specific accounting policies not supported in <b>S/4HANA</b> standard core, such as <b>BRF+</b> or SAP <b>PaPM</b>"
+          },
+          {
+            "html": "<span class=\"tag\">1</span>"
+          },
+          {
+            "html": ""
+          },
+          {
+            "html": "SAP S/4HANA, BRF+, PaPM accounting rules engine"
           }
         ],
         [
@@ -84,21 +105,19 @@
             "html": "<b>Finance master data &amp; dimensional governance</b>"
           },
           {
-            "html": "Trusted COA, hierarchies and entity governance"
+            "html": "Trusted finance dimensions: COA, hierarchies and entity governance."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "<b>SAP MDG</b> V7 governs financial master data for GL accounts and vendors. Other financial master data is governed directly in legacy ERP. Global hierarchies are governed in Excel and uploaded into applications such as <b>HFM</b> or <b>Tagetik</b> EPM."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "All financial master data governed in <b>SAP MDG S/4</b>. Key global hierarchies also governed in MDG S/4, while some referential governance remains in Excel."
           },
           {
-            "html": "<span class=\"tag amber\">2</span>"
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": "Initiative C"
+            "html": ""
           },
           {
             "html": "SAP MDG, Informatica, Oracle EDM, OneStream"

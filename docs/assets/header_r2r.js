@@ -35,8 +35,8 @@
               <a href="capability-close-reconciliation.html">
                 Close & Reconciliation
               </a>
-              <a href="capability-intercompany-consolidation.html">
-                Intercompany & Consolidation
+              <a href="capability-statutory-reporting-consolidation.html">
+                Statutory Reporting & Consolidation
               </a>
               <a href="capability-reporting-disclosure.html">
                 Reporting & Disclosure

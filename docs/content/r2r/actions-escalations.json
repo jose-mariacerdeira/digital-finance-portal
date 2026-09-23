@@ -2,9 +2,6 @@
   "pageTitle": "Actions, Dependencies & Escalations | R2R",
   "content": {
     "a-r2r-portal": "R2R Portal",
-    "div-actions-dependencies-escalations": "/ Actions, Dependencies & Escalations",
-    "h1-actions-dependencies-escalations": "Actions, Dependencies & Escalations",
-    "p-convert-meeting-outcomes-into-owned-follow": "Convert meeting outcomes into owned follow-through",
     "span-capability": "Capability",
     "div-record-to-report": "Record To Report",
     "span-capability-owner": "Capability Owner",
@@ -13,6 +10,11 @@
     "div-david-tippings": "David Tippings",
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
+    "a-previous": "Previous",
+    "a-next": "Next",
+    "div-actions-dependencies-escalations": "/ Actions, Dependencies & Escalations",
+    "h1-actions-dependencies-escalations": "Actions, Dependencies & Escalations",
+    "p-convert-meeting-outcomes-into-owned-follow": "Convert meeting outcomes into owned follow-through",
     "h2-action-tracker": "Action tracker",
     "h2-dependencies-risks": "Dependencies / risks",
     "li-dependency-or-risk": "Dependency or risk",
@@ -21,9 +23,7 @@
     "h2-escalations": "Escalations",
     "li-decision-or-sponsorship-needed": "Decision or sponsorship needed",
     "li-recommended-option": "Recommended option",
-    "li-required-by-date": "Required by date",
-    "a-previous": "Previous",
-    "a-next": "Next"
+    "li-required-by-date": "Required by date"
   },
   "tables": [
     {

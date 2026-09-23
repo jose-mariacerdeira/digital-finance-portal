@@ -14,16 +14,16 @@
     "span-review-period": "Review Period",
     "div-september-2026": "September 2026",
     "h2-capability-vision": "Capability vision",
-    "p-one-sentence-describing-the-future-ambitio": "One sentence describing the future ambition.",
+    "p-one-sentence-describing-the-future-ambitio": "Deliver trusted, automated, compliant reporting and disclosures globally.",
     "h2-sub-capability-assessment": "Sub-capability assessment",
     "h2-top-capability-gaps": "Top capability gaps",
-    "li-largest-current-to-target-gap": "Largest current-to-target gap",
-    "li-critical-market-or-technology-gap": "Critical market or technology gap",
-    "li-business-outcome-currently-constrained": "Business outcome currently constrained",
+    "li-largest-current-to-target-gap": "Fragmented local statutory reporting and compliance landscape",
+    "li-critical-market-or-technology-gap": "Local regulatory, e-invoicing and compliance requirements",
+    "li-business-outcome-currently-constrained": "Support local regulatory reporting for entities temporarily split across two ERPs during UNIFY deployment",
     "h2-investment-priorities": "Investment priorities",
-    "li-priority-platform": "Priority platform",
-    "li-priority-data-enabler": "Priority data enabler",
-    "li-priority-poc-or-emerging-technology": "Priority PoC or emerging technology",
+    "li-priority-platform": "SAP DRC deployment for e-invoicing",
+    "li-priority-data-enabler": "CCH Tagetik for UNIFY transitory local statutory reporting",
+    "li-priority-poc-or-emerging-technology": "Limited standardization of disclosure and XBRL/iXBRL reporting tools",
     "a-previous": "Previous",
     "a-next": "Next"
   },
@@ -56,27 +56,25 @@
       "rows": [
         [
           {
-            "html": "<b>Financial &amp; management reporting</b>"
+            "html": "<b>Financial and management reporting and analytics</b>"
           },
           {
-            "html": "Financial and management insight"
+            "html": "Generate financial statutory, management, analytics and reporting."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Mature ecosystem built around <b>SAP ECC</b> and <b>S/4HANA</b>, DFL, group reporting and consolidation in <b>Oracle HFM</b>, and reporting and analytics in FIDS and Tableau."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "• <b>Oracle HFM</b> transformation pending to replace legacy technology<br/>• Limited use of FIDS / Tableau for R2R."
           },
           {
-            "html": "<span class=\"tag\">1</span>"
+            "html": "<span class=\"tag amber\">2</span>"
           },
           {
-            "html": "Initiative A • Initiative B"
+            "html": "HFM replacement"
           },
           {
-            "html": "OneStream, Oracle, SAP, Workday Adaptive"
+            "html": "SAP S/4HANA, Oracle HFM, Databricks, Tableau, Power BI"
           }
         ],
         [
@@ -84,74 +82,45 @@
             "html": "<b>Local statutory reporting</b>"
           },
           {
-            "html": "Regulatory compliance and local GAAP"
+            "html": "Regulatory compliance and local GAAP reporting."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Highly fragmented; country-specific compliance managed through multiple local solutions and processes."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "• LRI transformation as part of UNIFY<br/>• <b>SAP DRC</b> positioned as the future compliance platform<br/>• Address reporting for legal entities split across two ERPs."
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">1</span>"
           },
           {
-            "html": ""
+            "html": "LRI • SAP DRC • CCH Tagetik"
           },
           {
-            "html": "SAP, Oracle, CCH Tagetik"
+            "html": "SAP, Oracle, CCH Tagetik, SAP DRC"
           }
         ],
         [
           {
-            "html": "<b>External reporting &amp; disclosure</b>"
+            "html": "<b>External disclosure, regulatory filing &amp; XBRL/iXBRL</b>"
           },
           {
-            "html": "Regulatory filings, XBRL and collaborative reporting"
+            "html": "Preparation, validation, publication and submission of external financial and regulatory reports."
           },
           {
-            "html": "To assess",
-            "class": "placeholder"
+            "html": "Mature compliance capability supported by established statutory, IFRS, tax and local regulatory reporting processes."
           },
           {
-            "html": "To define",
-            "class": "placeholder"
+            "html": "Harmonize compliance processes through UNIFY, strengthen local regulatory support and increase adoption of SAP-based compliance and reporting capabilities."
           },
           {
-            "html": ""
+            "html": "<span class=\"tag\">3</span>"
           },
           {
-            "html": ""
+            "html": "UNIFY • SAP DRC"
           },
           {
-            "html": "Workiva, DFIN ActiveDisclosure, Certent, IRIS CARBON"
-          }
-        ],
-        [
-          {
-            "html": "<b>Narrative &amp; variance explanation</b>"
-          },
-          {
-            "html": "Faster insight generation and narrative automation"
-          },
-          {
-            "html": "To assess",
-            "class": "placeholder"
-          },
-          {
-            "html": "To define",
-            "class": "placeholder"
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": ""
-          },
-          {
-            "html": "OneStream, Oracle, SAP Analytics Cloud"
+            "html": "SAP S/4HANA, SAP DRC, Workiva, DFIN ActiveDisclosure, Certent, IRIS CARBON"
           }
         ]
       ]
