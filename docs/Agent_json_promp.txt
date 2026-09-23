@@ -14,7 +14,7 @@ Destination folder: docs/content/p2p/.
 
 4. Slide-to-file mapping
 
-Slides titled “Capability Evolution” → capability-Procure-To-Pay
+Slides titled “Capability Evolution” → capability-Procure-To-Pay.json
 Slides titled  "Demand & innovation pipeline" → innovation-pipeline.json
 Slides titled  "Architecture & Design Topics" → architecture-topics.json
 Slides titled   "Investment Roadmap" → investment-roadmap.json

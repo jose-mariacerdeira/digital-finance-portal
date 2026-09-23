@@ -663,3 +663,23 @@ tr:last-child td {
 .meta span.text-grey {
   color: grey;
 }
+
+.table-scroll {
+  width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+}
+
+.table-scroll > table {
+  display: table;
+  width: 1800px;
+  min-width: 1800px;
+  white-space: normal;
+}
+table.wide-table {
+  display: table;
+  width: 1800px;
+  min-width: 1800px;
+  white-space: normal;
+  overflow: visible;
+}

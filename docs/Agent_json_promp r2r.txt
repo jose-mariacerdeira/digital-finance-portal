@@ -1,0 +1,26 @@
+
+
+1. Source PowerPoint
+Use the attached "XXXXXXXXXXXXXXX" as the source of content.
+
+
+3. Target capability
+Procurement To Pay (R2R).
+Destination folder: docs/content/r2r/.
+
+4. Slide-to-file mapping
+
+Slides titled “Capability Evolution” and "Capability Record To Report – Accounting Foundation" → capability-accounting.json
+Slides titled “Capability Evolution” and "Capability Record To Report – Accounting Operations" → capability-accounting-operations.json
+Slides titled “Capability Evolution” and "Capability Record To Report – Close Execution & Reconciliation" → capability-close-reconciliation.json
+Slides titled “Capability Evolution” and "capability Record To Report – Intercompany & Consolidation" → capability-intercompany-consolidation.json
+Slides titled “Capability Evolution” and "Capability Record To Report – Report & Disclosure" → capability-reporting-disclosure.json
+Slides titled “Capability Evolution” and "Capability Record To Report – Controls & Assurance" → capability-controls-assurance.json
+Slides titled  "Demand & innovation pipeline" → innovation-pipeline.json
+Slides titled  "Architecture & Design Topics" → architecture-topics.json
+Slides titled   "Investment Roadmap" → investment-roadmap.json
+Slides titled   "Decision log" → decision-log.json
+Slides titled "Actions, dependencies & escalations" → actions-escalations.json
+
+
+
