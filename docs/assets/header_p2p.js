@@ -15,15 +15,7 @@
         <nav class="dynamic_menu-navigation" aria-label="Navegación principal">
           <a class="dynamic_menu-home" href="../index.html">Home</a>
 
-          <details class="dynamic_menu-group"> 
-            <summary>Review</summary>
-            <div class="dynamic_menu-links">
-              <a href="agenda.html">Agenda</a>
-              <a href="objectives-actions.html">
-                Objectives & Previous Actions
-              </a>
-            </div>
-          </details>
+          
 
           <details class="dynamic_menu-group">
             <summary>Capabilities</summary>
