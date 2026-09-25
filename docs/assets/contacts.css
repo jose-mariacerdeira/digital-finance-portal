@@ -1,0 +1,50 @@
+/* All rules scoped to the contacts component. */
+portal-contacts { display: block; margin: 24px 0; --contact-card-background: transparent; --contact-card-width: 234px; }
+portal-contacts, portal-contacts * { box-sizing: border-box; }
+portal-contacts .pc-list { display: flex; flex-wrap: wrap; gap: 20px; padding: 0; margin: 0; list-style: none; }
+portal-contacts .pc-card { display: flex; flex-direction: column; align-items: center; width: var(--contact-card-width); max-width: 100%; margin: 0; padding: 40px 20px 34px; background: var(--contact-card-background); color: #fff; text-align: center; font-family: inherit; }
+portal-contacts .pc-avatar { position: relative; display: grid; place-items: center; flex-shrink: 0; width: 154px; height: 154px; max-width: 100%; aspect-ratio: 1; border-radius: 50%; overflow: hidden; background: #315269; color: #fff; font-size: 44px; }
+portal-contacts .pc-avatar img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+portal-contacts .pc-name { margin: 8px 0 4px; padding: 0; font-size: 22px; line-height: 1.25; font-weight: 700; color: #fff; overflow-wrap: anywhere; }
+portal-contacts .pc-role { margin: 0; padding: 0; font-size: 18px; line-height: 1.4; font-weight: 400; color: #fff; overflow-wrap: anywhere; }
+portal-contacts .pc-email { margin-top: 14px; color: #fff; font-size: 14px; text-decoration: underline; }
+portal-contacts .pc-email:focus-visible { outline: 2px solid #fff; outline-offset: 4px; }
+portal-contacts .pc-error { color: #9b2424; }
+
+.contacts-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+  margin-top: 50px;
+}
+
+.contacts-row > portal-contacts {
+  margin: 0;
+}
+portal-contacts {
+  --contact-card-width: 170px;
+}
+
+portal-contacts .pc-card {
+  padding: 16px 12px;
+}
+
+portal-contacts .pc-avatar {
+  width: 100px;
+  height: 100px;
+  font-size: 30px; /* Initials when no photo */
+}
+
+portal-contacts .pc-name {
+  font-size: 17px;
+  margin-top: 8px;
+}
+
+portal-contacts .pc-role {
+  font-size: 14px;
+}
+
+portal-contacts .pc-email {
+  font-size: 12px;
+}

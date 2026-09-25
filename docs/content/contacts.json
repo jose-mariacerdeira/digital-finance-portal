@@ -1,0 +1,90 @@
+
+{
+  "contacts": [
+    {
+      "name": "Eric Fernandez",
+      "role": "Digital Finance VP",
+      "photo": "../img/contacts/eric.jpg",    
+      "id": "eric-fernandez"
+    },
+    {
+      "name": "Jose Maria Cerdeira",
+      "role": "Digital Finance Strategy & Execution Leader",
+      "photo": "../img/contacts/jose.jpg",    
+      "id": "jose-cerdeira"
+    },
+    {
+      "name": "Agnieszka Koziak",
+      "role": "Digital Solution Leader",
+      "photo": "../img/contacts/aga.jpg",    
+      "id": "agnieszka-koziak"
+    },
+    {
+      "name": "Amanda Conlen",
+      "role": "Global P2P Transformation Director",
+      "photo": "../img/contacts/amanda.jpg",    
+      "id": "amanda-conlen"
+    },
+    {
+      "name": "David Carrion",
+      "role": "Finance Performance Deployment & Platform delivery Director",
+      "photo": "../img/contacts/davidCarrion.jpg",    
+      "id": "david-carrion"
+    },
+    {
+      "name": "David Tippins",
+      "role": "Accounting Transformation Leader",
+      "photo": "../img/contacts/davidT.jpg",    
+      "id": "david-tippins"
+    },
+    {
+      "name": "Diwakar Muthu",
+      "role": "Principal, General Manager",
+      "photo": "../img/contacts/diwakar.jpg",    
+      "id": "diwakar-muthu"
+    },
+    {
+      "name": "Mariana Candia",
+      "role": "Principal, Digital Finance PMO",
+      "photo": "../img/contacts/mariana.jpg",    
+      "id": "mariana-candia"
+    },
+    {
+      "name": "Payal Mittal",
+      "role": "Principal, Application Landscape Manager",
+      "photo": "../img/contacts/payal.jpg",    
+      "id": "payal-mittal"
+    },
+    {
+      "name": "Raghavendra Sriramulu",
+      "role": "PTP Tower Leader",
+      "photo": "../img/contacts/ragha.jpg",    
+      "id": "ragha-sri"
+    },
+    {
+      "name": "Raghavendra Sriramulu",
+      "role": "PTP Tower Leader",
+      "photo": "../img/contacts/ragha.jpg",    
+      "id": "ragha-sri"
+    },
+    {
+      "name": "Soni Chhawchharia",
+      "role": "Principal, Application Landscape Manager",
+      "photo": "../img/contacts/soni.jpg",    
+      "id": "soni-chhawchharia"
+    },
+    {
+      "name": "Sophia Amrani",
+      "role": "Horizon Functional Design Leader",
+      "photo": "../img/contacts/sophia.jpg",    
+      "id": "sophia-amrani"
+    },
+    {
+      "name": "Lucas Fernandez",
+      "role": "Global ERP Digital Finance Solution Leader",
+      "photo": "../img/contacts/lucas.jpg",    
+      "id": "lucas-fernandez"
+    }
+
+  ]
+}

@@ -8,6 +8,8 @@
     <link href="../assets/portal.css" rel="stylesheet" />
     <link href="../assets/header.css?v=6" rel="stylesheet" >
     <script src="../assets/header_r2r.js?v=4" defer></script>
+    <link rel="stylesheet" href="../assets/contacts.css?v=2">
+    <script src="../assets/contacts.js?v=2" defer></script>
 </head>
 
 <body data-content-file="../content/r2r/index.json">
@@ -25,12 +27,31 @@
                     <h1><span data-bind="h1-capability-strategy-portfolio-review-2"></span></h1>
                     <p><span data-bind="p-record-to-report-capability-portal-for-str"></span></p>
                 </div>
+                <div class="contacts-row">
+                <portal-contacts
+                    src="../content/contacts.json"
+                    contact-id="soni-chhawchharia">
+                </portal-contacts>
+                 <portal-contacts
+                    src="../content/contacts.json"
+                    contact-id="lucas-fernandez">
+                </portal-contacts>
+                <portal-contacts
+                    src="../content/contacts.json"
+                    contact-id="david-tippins">
+                </portal-contacts>
+                </div>
             </section>
             <section class="cards">
                 </a><a class="card" href="capability-accounting.html">
                     <h3><span data-bind="h3-capability-evolution"></span></h3>
                     <p><span data-bind="p-explore-six-r2r-domains-and-their-technolo"></span></p>
-                </a><a class="card" href="portfolio-review.html">
+                </a>
+                <a class="card" href="innovation-pipeline.html">
+                    <h3>Innovation Pipeline</h3>
+                    <p> Explore evolution ideas transformation into technology selections, Proof of Concepts and Pilots </p>
+                </a>
+                <a class="card" href="portfolio-review.html">
                     <h3><span data-bind="h3-portfolio-review"></span></h3>
                     <p><span data-bind="p-review-health-risks-decisions-and-next-gat"></span></p>
                 </a><a class="card" href="architecture-topics.html">
@@ -39,17 +60,21 @@
                 </a><a class="card" href="investment-roadmap.html">
                     <h3><span data-bind="h3-investment"></span></h3>
                     <p><span data-bind="p-review-funding-and-capacity-implications"></span></p>
-                <a class="card" href="actions-escalations.html">
-                    <h3><span data-bind="h3-review-actions-scalations"></span></h3>
-                    <p><span data-bind="p-navigate-the-90-minute-decision-flow"></span></p>
-                </a><a class="card" href="decision-log.html">
-                    <h3><span data-bind="h3-governance"></span></h3>
-                    <p><span data-bind="p-track-decisions-actions-and-escalations"></span></p>
-                </a></section>
-            <div class="actions"><a class="btn secondary" href="actions-escalations.html"><span
-                        data-bind="a-previous"></span></a><a class="btn" href="agenda.html"><span
-                        data-bind="a-next"></span></a></div>
-        </div>
+                
+                </a>
+                <div class="card">
+                    <h3>Review actions, escalations and decisions</h3>
+                    <p>
+                    Check status of
+                    <a href="actions-escalations.html">Actions & Escalations</a>
+                    and
+                    <a href="decision-log.html">Decisions</a>
+                    from capability reviews.
+                    </p>
+                </div>
+                </section>
+              
+           
     </main>
     <footer class="footer">© 2026 Schneider Electric. Internal working portal.</footer>
     <script src="../assets/portal.js"></script>
